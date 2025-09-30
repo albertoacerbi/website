@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Associate Professore
+role: Associate Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Department of Sociology and Social Research, University of Trento 
+  - name: University of Trento 
     url: https://www.sociologia.unitn.it/en
 
 # Social network links
@@ -184,8 +184,6 @@ awards:
   #   summary: |
   #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
-
-## About Me
 
 I am a researcher in the field of cultural evolution. My work is at the interface of psychology, anthropology, and sociology. I am interested in particular to contemporary cultural phenomena, and I use a naturalistic, quantitative, and evolutionary approach with different methodologies, especially individual-based models and quantitative analysis of large-scale cultural data. I am an Assistant Professor in the [Department of Sociology and Social Research](https://www.sociologia.unitn.it/en) at the [University of Trento](https://www.unitn.it/en), and member of the [C2S2 - Centre for Computational Social Science and Human Dynamics](https://c2s2.unitn.it).
 
