@@ -53,5 +53,3 @@ I wrote a [popular summary](http://www.huffingtonpost.com/alberto-acerbi/human-e
 * [Aiuto, i nostri romanzi hanno perso le emozioni](http://ricerca.repubblica.it/repubblica/archivio/repubblica/2013/03/21/aiuto-nostri-romanzi-hanno-perso-le-emozioni.html) (in Italian), *La Repubblica*.
 
 * A radio interview for BBC *Material World*: [Planck, Elusive Giant Squid, Emotive words](https://www.bbc.co.uk/programmes/b01r9sl7).
-
-{{< altmetric doi="10.1371/journal.pone.0059030"" badge_type="donut" details="right" width="150px" height="150px" >}}
