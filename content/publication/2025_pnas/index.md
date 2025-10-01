@@ -7,7 +7,7 @@ authors:
 
 date: "2025-02-21T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 image:
   caption: ""
   focal_point: ""
