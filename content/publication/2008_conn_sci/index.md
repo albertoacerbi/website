@@ -20,8 +20,7 @@ links:
 
 publication: Acerbi A., Marocco D., Vogt P. (2008), Social learning in embodied agents, *Connection Science*, 20 (2-3), pp. 69 – 72
 publication_short: In *Connection Science*, 20 (2-3), pp. 69 – 72
-publication_types:
-- "0"
+publication_types: ["article-journal"]
 publishDate: "2008-06-20T00:00:00Z"
 slides: ""
 summary: ""
