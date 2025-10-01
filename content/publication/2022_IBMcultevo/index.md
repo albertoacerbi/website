@@ -14,7 +14,7 @@ image:
   preview_only: false
 links:
 - name: Link to online free version
-  url: https://acerbialberto.com/IBM-cultevo/
+  url: https://albertoacerbi.github.com/IBM-cultevo/
 - name: Link to publisher (physical version)
   url: https://www.routledge.com/Individual-Based-Models-of-Cultural-Evolution-A-Step-by-Step-Guide-Using/Acerbi-Mesoudi-Smolla/p/book/9781032252063
 - name: GitHub repository
