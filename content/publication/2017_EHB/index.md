@@ -21,7 +21,7 @@ links:
 publication: Acerbi, A., Kendal, J., Tehrani, J.J. (2017), Cultural complexity and demography&#58; the case of folktales, *Evolution and Human Behavior*,  38 (4), 474-480
 publication_short: In *Evolution and Human Behavior*,  38 (4), 474-480
 publication_types: ["article-journal"]
-publishDate: "2017-07-01T00:00:00ZZ"
+publishDate: "2017-07-01T00:00:00Z"
 slides: ""
 summary: ""
 
