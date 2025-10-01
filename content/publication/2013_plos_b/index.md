@@ -42,14 +42,3 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
----
-
-I wrote a [popular summary](http://www.huffingtonpost.com/alberto-acerbi/human-emotion-books-history_b_3084869.html) of the paper for the *Huffington Post* (US edition). Other media coverage includes:
-
-* [Text mining uncovers British reserve and US emotion](http://www.nature.com/news/text-mining-uncovers-british-reserve-and-us-emotion-1.12642), *Nature*.
-
-* [Fold Up Your Handkerchiefs: Books Have Gotten Less 'Emotional', Study Says](https://artsbeat.blogs.nytimes.com/2013/03/25/fold-up-your-handkerchiefs-books-have-gotten-less-emotional-study-says/?mtrref=undefined&gwh=C9D8521D01CC2505709A530FCDC5B87D&gwt=pay&assetType=REGIWALL), *The New York Times*.
-
-* [Aiuto, i nostri romanzi hanno perso le emozioni](http://ricerca.repubblica.it/repubblica/archivio/repubblica/2013/03/21/aiuto-nostri-romanzi-hanno-perso-le-emozioni.html) (in Italian), *La Repubblica*.
-
-* A radio interview for BBC *Material World*: [Planck, Elusive Giant Squid, Emotive words](https://www.bbc.co.uk/programmes/b01r9sl7).
