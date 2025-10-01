@@ -20,8 +20,8 @@ links:
 
 publication: Acerbi A., Enqusit M., Ghirlanda S. (2009), Cultural evolution and individual development of openness and conservatism, *Proceedings of the National Academy of Sciences, USA*, 106 (45), pp. 18931 – 18935
 publication_short: In *Proceedings of the National Academy of Sciences, USA*, 106 (45), pp. 18931 – 18935
-publication_types:
-- "2"
+publication_types: publication_types: ["article-journal"]
+
 publishDate: "2009-11-10T00:00:00Z"
 slides: ""
 summary: ""
