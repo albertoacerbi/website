@@ -19,8 +19,8 @@ links:
 
 publication: Acerbi A., Parisi D. (2006) Cultural transmission between and within generations, *Journal of Artificial Societies and Social Simulations*, 9 (1)
 publication_short: In *Journal of Artificial Societies and Social Simulations*, 9 (1)
-publication_types:
-- "2"
+publication_types:  ["article-journal"]
+
 publishDate: "2006-01-31T00:00:00Z"
 slides: ""
 summary: ""
