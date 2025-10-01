@@ -20,8 +20,7 @@ links:
 
 publication: Acerbi A., McNamara P., Nunn C. L. (2008), To sleep or not to sleep&#58; the ecology of sleep in artificial organisms, *BMC Ecology*, 6 (10), pp. 1 – 12
 publication_short: In *BMC Ecology*, 6 (10), pp. 1 – 12
-publication_types:
-- ["article-journal"]
+publication_types: ["article-journal"]
 publishDate: "2008-06-14T00:00:00Z"
 slides: ""
 summary: ""
