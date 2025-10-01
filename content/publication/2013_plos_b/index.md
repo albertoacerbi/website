@@ -54,9 +54,4 @@ I wrote a [popular summary](http://www.huffingtonpost.com/alberto-acerbi/human-e
 
 * A radio interview for BBC *Material World*: [Planck, Elusive Giant Squid, Emotive words](https://www.bbc.co.uk/programmes/b01r9sl7).
 
-{{< rawhtml >}}
-<script id="altmetric-embed-js" type="text/javascript"
-src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
-<div data-badge-details="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0059030" data-hide-no-mentions="true" class="altmetric-embed"></div>
-{{< /rawhtml >}}
+{{< altmetric doi="10.1371/journal.pone.0059030"" badge_type="donut" details="right" width="150px" height="150px" >}}
