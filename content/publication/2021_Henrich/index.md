@@ -4,7 +4,7 @@ authors:
 - admin
 date: "2021-06-15T00:00:00Z"
 doi: "10.26613/esic.5.1.217"
-featured: true
+featured: false
 image:
   caption: ""
   focal_point: ""
