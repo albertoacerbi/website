@@ -21,11 +21,7 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- cultural attraction
-- misinformation 
 - digital media
-- transmission biases
 
 
 title: Tecnopanico
