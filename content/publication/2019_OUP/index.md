@@ -40,9 +40,9 @@ url_video: ""
 
 <p style="font-size:17px">Academic reviews:</p>
 
-<p style="font-size:17px"> * Joshua Conrad Jackson, [New Technology, Same Culture](https://escholarship.org/uc/item/8hg2441f), *Cliodynamics: The Journal of Quantitative History and Cultural Evolution*, 2020</p>
+ * <p style="font-size:17px">Joshua Conrad Jackson, [New Technology, Same Culture](https://escholarship.org/uc/item/8hg2441f), *Cliodynamics: The Journal of Quantitative History and Cultural Evolution*, 2020</p>
 
-<p style="font-size:17px">> With *Cultural Evolution in the Digital Age*, Acerbi joins the likes of Peter Turchin, David Sloan Wilson, and Joseph Henrich in offering an engaging and accessible application of cultural evolutionary models, which will almost certainly attract new scholars to the field. Never did I expect to read about Grumpy Cat and the social brain hypothesis in the same book, but the result was genuinely satisfying.</p>
+> <p style="font-size:17px">With *Cultural Evolution in the Digital Age*, Acerbi joins the likes of Peter Turchin, David Sloan Wilson, and Joseph Henrich in offering an engaging and accessible application of cultural evolutionary models, which will almost certainly attract new scholars to the field. Never did I expect to read about Grumpy Cat and the social brain hypothesis in the same book, but the result was genuinely satisfying.</p>
 
 <p style="font-size:17px"> * Stefan Velesky, [Review of Cultural Evolution in the Digital Age](https://www.jstor.org/stable/10.26613/esic.4.2.195), *Evolutionary Studies in Imaginative Culture*, 2020</p>
 
