@@ -62,15 +62,17 @@ url_video: ""
 
 ---
 
-<p style="font-size:17px">Book Club at <a href="https://cognitionandculture.net/webinars/index.html">cognitionandculture.net<a></p>
+<p style="font-size:17px">Book Club at <a href="https://cognitionandculture.net/webinars/index.html">cognitionandculture.net<\a></p>
 
 <p style="font-size:17px">The <em>International Cognition and Culture Institute</em> has organised a book club around Cultural Evolution in the Digital Age running in June and July 2020. The book club includes my precis, commentaries by Alex Mesoudi, Hugo Mercier, Mathieu Charbonneau, Olivier Morin, Pascal Boyer, Sacha Altay, and Tiffany Morisseau, plus my reply.</p>
 
 ---
 
-Selected media coverage:
+<p style="font-size:17px">Selected media coverage:</p>
 
-* [Interview for the podcast 'The Dissenter'](https://youtu.be/AX0Jy0__DbE)
+* <p style="font-size:17px">Interview for the podcast 'The Dissenter'</p>
+
+{{< youtube AX0Jy0__DbE >}}
 
 * [Interview for Cultured Scene, the Early Career Social Learning Researcher's Society magazine](https://www.cs.eslrsociety.org/2020/07/15/cultural-evolution-in-the-digital-age/)
 
