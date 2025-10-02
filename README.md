@@ -9,12 +9,14 @@ The website is online at [https://acerbialberto.com]()
 - In "Publications" section:
   -   consolidate tag system?
   -   Altmetric?
+  -   add media to Tecnopanico
 
 - Sections to add:
   - Contact?     
   - News?
   - Talks?
-  - Teaching?  
+  - Teaching?
+  - Media?
 
 ### Notes
 
