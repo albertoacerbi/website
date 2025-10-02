@@ -28,6 +28,7 @@ summary: ""
 
 tags:
 - digital media
+- cultural attraction
 
 title: "Positive sentiment and expertise predict the diffusion of archaeological content on social media"
 url_code: "https://github.com/mkrzyzanska/TwitterArchaeology"
