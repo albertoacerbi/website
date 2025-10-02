@@ -191,6 +191,3 @@ My last book (published in March 2025) is [Tecnopanico](https://www.mulino.it/is
 
 Earlier, I wrote a book for Oxford University Press: [Cultural evolution in the digital age](https://global.oup.com/academic/product/cultural-evolution-in-the-digital-age-9780198835943?cc=gb&lang=en&), and an open access manual: [Individual-based models of cultural evolution. A step-by-step guide using R](https://albertoacerbi.github.io/IBM-cultevo/) (a physical version is available with [Routeldge](https://www.routledge.com/Individual-Based-Models-of-Cultural-Evolution-A-Step-by-Step-Guide-Using/Acerbi-Mesoudi-Smolla/p/book/9781032252063)). I also curate a free substack newsletter (in Italian), with links to material about cultural evolution and digital technologies: [Cinque link a settimana](https://albertoacerbi.substack.com).
 
-🚨 
-### Please note that I am currently transferring materials from the old website to this one ### 
-🚨
