@@ -11,6 +11,7 @@ The website is online at [https://acerbialberto.com]()
   -   Altmetric?
 
 - Sections to add:
+  - Contact?     
   - News?
   - Talks?
   - Teaching?  
@@ -19,5 +20,5 @@ The website is online at [https://acerbialberto.com]()
 
 - Publications types are based on CSL specifications, the list can be found [here](https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types)
 
-- The script "my_publications.R" is indpendent from the website. It created a .bib file with all the publications present in the website.
+- The script "my_publications.R" is indpendent from the website. It creates a .bib file with all the publications present in the website.
 
