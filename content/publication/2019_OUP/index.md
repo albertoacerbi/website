@@ -36,10 +36,6 @@ url_source: ""
 url_video: ""
 ---
 
-Book Club at [cognitionandculture.net](http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/)
-
-The *International Cognition and Culture Institute* has organised a book club around Cultural Evolution in the Digital Age running in June and July 2020. The book club includes my precis, commentaries by Alex Mesoudi, Hugo Mercier, Mathieu Charbonneau, Olivier Morin, Pascal Boyer, Sacha Altay, and Tiffany Morisseau, plus my reply.
-
 ---
 
 Academic reviews:
@@ -66,13 +62,13 @@ Academic reviews:
 
 ---
 
-General reviews: 
+Book Club at [cognitionandculture.net](http://cognitionandculture.net/webinars/cultural-evolution-in-the-digital-age/)
 
-> Acerbi advocates for a moderate approach to understanding the impact of digital media. Taking the "long view" provides a more accurate assessment than alarmist reactions. [...] Acerbi's book is filled with hope; it is not a Pollyanna assessment of the digital world but a balanced view." - *Choice*
+The *International Cognition and Culture Institute* has organised a book club around Cultural Evolution in the Digital Age running in June and July 2020. The book club includes my precis, commentaries by Alex Mesoudi, Hugo Mercier, Mathieu Charbonneau, Olivier Morin, Pascal Boyer, Sacha Altay, and Tiffany Morisseau, plus my reply.
 
 ---
 
-Media coverage:
+Selected media coverage:
 
 * [Interview for the podcast 'The Dissenter'](https://youtu.be/AX0Jy0__DbE)
 
@@ -81,4 +77,3 @@ Media coverage:
 * [Sturen algoritmen ons gedrag? Dat valt best mee](https://www.trouw.nl/wetenschap/sturen-algoritmen-ons-gedrag-dat-valt-best-mee~ba0035f5/), *Trouw* (The Netherlands)
 
 * [Tout ce que vous pensiez savoir d'Internet est (sans doute) faux](https://www.lepoint.fr/phebe/phebe-tout-ce-que-vous-pensiez-savoir-d-internet-est-sans-doute-faux-07-02-2020-2361661_3590.php#), *Le Point* (France)
-
