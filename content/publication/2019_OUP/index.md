@@ -62,7 +62,7 @@ url_video: ""
 
 ---
 
-<p style="font-size:17px">Book Club at <a href="https://cognitionandculture.net/webinars/index.html">cognitionandculture.net<\a></p>
+<p style="font-size:17px">Book Club at <a href="https://cognitionandculture.net/webinars/index.html">cognitionandculture.net</a></p>
 
 <p style="font-size:17px">The <em>International Cognition and Culture Institute</em> has organised a book club around Cultural Evolution in the Digital Age running in June and July 2020. The book club includes my precis, commentaries by Alex Mesoudi, Hugo Mercier, Mathieu Charbonneau, Olivier Morin, Pascal Boyer, Sacha Altay, and Tiffany Morisseau, plus my reply.</p>
 
@@ -74,8 +74,8 @@ url_video: ""
 
 {{< youtube AX0Jy0__DbE >}}
 
-* [Interview for Cultured Scene, the Early Career Social Learning Researcher's Society magazine](https://www.cs.eslrsociety.org/2020/07/15/cultural-evolution-in-the-digital-age/)
+* <p style="font-size:17px"><a href="https://www.cs.eslrsociety.org/2020/07/15/cultural-evolution-in-the-digital-age/">Interview for Cultured Scene, the Early Career Social Learning Researcher's Society magazine</a></p>
 
-* [Sturen algoritmen ons gedrag? Dat valt best mee](https://www.trouw.nl/wetenschap/sturen-algoritmen-ons-gedrag-dat-valt-best-mee~ba0035f5/), *Trouw* (The Netherlands)
+* <p style="font-size:17px"><a href="https://www.trouw.nl/wetenschap/sturen-algoritmen-ons-gedrag-dat-valt-best-mee~ba0035f5/">Sturen algoritmen ons gedrag? Dat valt best mee</a>, <em>Trouw</em> (The Netherlands)</p>
 
-* [Tout ce que vous pensiez savoir d'Internet est (sans doute) faux](https://www.lepoint.fr/phebe/phebe-tout-ce-que-vous-pensiez-savoir-d-internet-est-sans-doute-faux-07-02-2020-2361661_3590.php#), *Le Point* (France)
+* [<p style="font-size:17px"><a href="https://www.lepoint.fr/phebe/phebe-tout-ce-que-vous-pensiez-savoir-d-internet-est-sans-doute-faux-07-02-2020-2361661_3590.php#">Tout ce que vous pensiez savoir d'Internet est (sans doute) faux]</a>, <em>Le Point</em> (France)</p>
