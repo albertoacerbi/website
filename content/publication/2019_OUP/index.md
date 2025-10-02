@@ -40,23 +40,23 @@ url_video: ""
 
 <p style="font-size:17px">Academic reviews:</p>
 
- * <p style="font-size:17px">Joshua Conrad Jackson, New Technology, Same Culture, <em>Cliodynamics: The Journal of Quantitative History and Cultural Evolution<\em>, 2020</p>
+ * <p style="font-size:17px">Joshua Conrad Jackson, New Technology, Same Culture, <em>Cliodynamics: The Journal of Quantitative History and Cultural Evolution</em>, 2020</p>
 
-> <p style="font-size:17px">With <em>Cultural Evolution in the Digital Age<\em>, Acerbi joins the likes of Peter Turchin, David Sloan Wilson, and Joseph Henrich in offering an engaging and accessible application of cultural evolutionary models, which will almost certainly attract new scholars to the field. Never did I expect to read about Grumpy Cat and the social brain hypothesis in the same book, but the result was genuinely satisfying.</p>
+> <p style="font-size:17px">With <em>Cultural Evolution in the Digital Age</em>, Acerbi joins the likes of Peter Turchin, David Sloan Wilson, and Joseph Henrich in offering an engaging and accessible application of cultural evolutionary models, which will almost certainly attract new scholars to the field. Never did I expect to read about Grumpy Cat and the social brain hypothesis in the same book, but the result was genuinely satisfying.</p>
 
-* <p style="font-size:17px">Stefan Velesky, Review of Cultural Evolution in the Digital Age, <em>Evolutionary Studies in Imaginative Culture<\em>, 2020</p>
+* <p style="font-size:17px">Stefan Velesky, Review of Cultural Evolution in the Digital Age, <em>Evolutionary Studies in Imaginative Culture</em>, 2020</p>
 
-> <p style="font-size:17px">In <em>Cultural Evolution in the Digital Age<em\>, Acerbi combines cultural evolution with cognitive anthropology and media studies to provide one of the most solid science-based takes on the impact of digital media on human behavior to date.</p>
+> <p style="font-size:17px">In <em>Cultural Evolution in the Digital Age</em>, Acerbi combines cultural evolution with cognitive anthropology and media studies to provide one of the most solid science-based takes on the impact of digital media on human behavior to date.</p>
 
-* <p style="font-size:17px">Andrew Buskell, Evolution, Cultural Evolution, and Epistemic Optimism], <em>Acta Biotheoretica<\em>, 2020</p>
+* <p style="font-size:17px">Andrew Buskell, Evolution, Cultural Evolution, and Epistemic Optimism], <em>Acta Biotheoretica</em>, 2020</p>
 
 > <p style="font-size:17px">[...] enjoyable, story-driven journey. [...] guide the reader through large and expanding literatures in an entertaining and illuminating way. [...] upbeat about human capabilities and provide a useful optimistic counterpoint to the recent spate of epistemological doomsayers.</p>
 
-* <p style="font-size:17px">Oleg Sobchuk, Cultural Evolution in the Digital Age], <em>Journal of Communication<\em>, 2021</p>
+* <p style="font-size:17px">Oleg Sobchuk, Cultural Evolution in the Digital Age], <em>Journal of Communication</em>, 2021</p>
 
 > <p style="font-size:17px">This book by the anthropologist Alberto Acerbi builds a bridge between the field of media and communication studies and a rather new approach to studying culture: cultural evolution. Can this bridge be a firm structure? And do media studies and cultural evolution even need each other? Acerbi makes a persuasive case for the usefulness and importance of this connection.</p>
 
-* <p style="font-size:17px">Simone Marsi, Cultural Evolution in the Digital Age, <em>Between<\em>, 2022 (Italian)</p>
+* <p style="font-size:17px">Simone Marsi, Cultural Evolution in the Digital Age, <em>Between</em>, 2022 (Italian)</p>
 
 > <p style="font-size:17px">Con rigore scientifico, poggiando i piedi su esperimenti di antropologia e riflessioni scientifiche sull’evoluzionismo, Acerbi ci conduce in un inedito viaggio nella nostra quotidianità, disvelando pregiudizi e falsi miti sul mondo digitale, che sottratto al dibattito tra apocalittici della società reale e guru integrati nel mondo dei social, ci viene riproposto come un luogo in cui l’uomo mette in scena sé stesso, con i suoi difetti più torbidi e la sua più alta aspirazione alla conoscenza. </p>
 
