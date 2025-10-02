@@ -30,7 +30,7 @@ slides: ""
 summary: ""
 
 tags:
-- individual based models
+- book
 
 title: Individual-based models of cultural evolution. A step-by-step guide using R
 url_code: ""

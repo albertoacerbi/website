@@ -21,7 +21,7 @@ slides: ""
 summary: ""
 
 tags:
-- digital media
+- book
 
 
 title: Tecnopanico
@@ -34,5 +34,9 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+
+The book has had extensive media coverage in Italy. Here some examples:
+
+
 
 
