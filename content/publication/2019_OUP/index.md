@@ -38,7 +38,7 @@ url_video: ""
 
 ---
 
-<p style="font-size:17px">Academic reviews:</p>
+<p style="font-size:17px">Academic reviews:
 
 * Joshua Conrad Jackson, [New Technology, Same Culture](https://escholarship.org/uc/item/8hg2441f), *Cliodynamics: The Journal of Quantitative History and Cultural Evolution*, 2020
 
@@ -76,4 +76,4 @@ Selected media coverage:
 
 * [Sturen algoritmen ons gedrag? Dat valt best mee](https://www.trouw.nl/wetenschap/sturen-algoritmen-ons-gedrag-dat-valt-best-mee~ba0035f5/), *Trouw* (The Netherlands)
 
-* [Tout ce que vous pensiez savoir d'Internet est (sans doute) faux](https://www.lepoint.fr/phebe/phebe-tout-ce-que-vous-pensiez-savoir-d-internet-est-sans-doute-faux-07-02-2020-2361661_3590.php#), *Le Point* (France)
+* [Tout ce que vous pensiez savoir d'Internet est (sans doute) faux](https://www.lepoint.fr/phebe/phebe-tout-ce-que-vous-pensiez-savoir-d-internet-est-sans-doute-faux-07-02-2020-2361661_3590.php#), *Le Point* (France)</p>
