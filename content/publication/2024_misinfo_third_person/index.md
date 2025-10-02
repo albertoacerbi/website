@@ -28,7 +28,6 @@ summary: ""
 
 tags:
 - digital media
-- misinformation
 
 title: "People believe misinformation is a threat because they assume others are gullible"
 url_code: ""

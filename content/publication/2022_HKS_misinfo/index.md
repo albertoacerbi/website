@@ -26,7 +26,6 @@ summary: ""
 
 tags:
 - digital media
-- misinformation
 - individual based models
 
 title: "Research note: Fighting misinformation or fighting for information?"

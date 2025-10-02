@@ -34,8 +34,7 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- transmission biases
+- cultural attraction
 
 title: Beyond social learning
 url_code: ""

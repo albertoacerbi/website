@@ -30,8 +30,7 @@ summary: ""
 
 tags:
 - digital media
-- misinformation
-- cultural evolution
+- cultural attraction
 
 title: "Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election"
 url_code: "https://github.com/masonyoungblood/TwitterABM"

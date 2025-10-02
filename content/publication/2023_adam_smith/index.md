@@ -25,8 +25,7 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- text mining
+- cultural analytics
 
 title: "Self-Interest, prosociality, and the moral cognition of markets: A comparative analysis of the Theory of Moral Sentiments and the Wealth of Nations"
 url_code: ""

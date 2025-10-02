@@ -28,8 +28,6 @@ summary: ""
 
 tags:
 - digital media
-- AI
-- cultural evolution
 
 title: "Large language models show human-like content biases in transmission chain experiment"
 url_code: "https://osf.io/6v2ps/"

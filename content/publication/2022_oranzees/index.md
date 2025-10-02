@@ -26,7 +26,6 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
 - individual based models
 
 title: The method of exclusion (still) cannot identify specific mechanisms of cultural inheritance

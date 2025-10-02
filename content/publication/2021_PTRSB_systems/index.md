@@ -27,8 +27,6 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- transmission biases
 - individual based models
 
 title: Modelling cultural systems and selective filters

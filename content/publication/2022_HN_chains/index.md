@@ -24,7 +24,7 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
+- cultural attraction
 - digital media
 
 title: From storytelling to Facebook. Content biases when retelling or sharing a story

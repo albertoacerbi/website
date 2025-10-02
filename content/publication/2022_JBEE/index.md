@@ -23,8 +23,7 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- text mining
+- cultural analytics
 
 title: The self-control vs. self-indulgence dilemma. A culturomic analysis of 20th century trends
 url_code: ""

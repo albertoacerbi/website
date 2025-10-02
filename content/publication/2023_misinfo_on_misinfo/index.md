@@ -26,7 +26,6 @@ summary: ""
 
 tags:
 - digital media
-- misinformation
 
 title: "Misinformation on Misinformation: Conceptual and Methodological Challenges"
 url_code: ""

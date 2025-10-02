@@ -31,7 +31,6 @@ summary: ""
 
 tags:
 - digital media
-- conservation
 
 title: "Sentiment analysis of the Twitter response to Netflix's Our Planet documentary"
 url_code: ""

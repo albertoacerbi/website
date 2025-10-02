@@ -39,8 +39,6 @@ summary: ""
 
 tags:
 - digital media
-- AI
-- cultural evolution
 
 title: "Machine Culture"
 url_code: ""

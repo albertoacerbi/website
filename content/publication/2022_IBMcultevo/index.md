@@ -30,7 +30,6 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
 - individual based models
 
 title: Individual-based models of cultural evolution. A step-by-step guide using R

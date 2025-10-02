@@ -27,7 +27,7 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
+- cultural attraction
 
 title: Social information use and social information waste
 url_code: ""
