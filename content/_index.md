@@ -31,8 +31,8 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: research
     content:
-    id research
       title: 'Research'
       subtitle: ''
       text: |-
