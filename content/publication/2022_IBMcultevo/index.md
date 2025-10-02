@@ -7,7 +7,7 @@ authors:
 - Marco Smolla
 date: "2022-07-05T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 image:
   caption: ""
   focal_point: ""
