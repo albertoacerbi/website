@@ -27,9 +27,8 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
 - cultural attraction
-- modelling
+- individual based models
 
 title: "Weak individual preferences stabilize culture"
 url_code: "https://github.com/albertoacerbi/attraction_social"
