@@ -38,44 +38,44 @@ url_video: ""
 
 ---
 
-<p style="font-size:17px">Academic reviews:</p>
+<h4>Academic reviews:</h4>
 
- * <p style="font-size:17px">Joshua Conrad Jackson, New Technology, Same Culture, <em>Cliodynamics: The Journal of Quantitative History and Cultural Evolution</em>, 2020</p>
+ <p style="font-size:17px">Joshua Conrad Jackson, New Technology, Same Culture, <em>Cliodynamics: The Journal of Quantitative History and Cultural Evolution</em>, 2020</p>
 
-> <p style="font-size:17px">With "Cultural Evolution in the Digital Age", Acerbi joins the likes of Peter Turchin, David Sloan Wilson, and Joseph Henrich in offering an engaging and accessible application of cultural evolutionary models, which will almost certainly attract new scholars to the field. Never did I expect to read about Grumpy Cat and the social brain hypothesis in the same book, but the result was genuinely satisfying.</p>
+<p style="font-size:17px"><em>With "Cultural Evolution in the Digital Age", Acerbi joins the likes of Peter Turchin, David Sloan Wilson, and Joseph Henrich in offering an engaging and accessible application of cultural evolutionary models, which will almost certainly attract new scholars to the field. Never did I expect to read about Grumpy Cat and the social brain hypothesis in the same book, but the result was genuinely satisfying.</em></p>
 
-* <p style="font-size:17px">Stefan Velesky, Review of Cultural Evolution in the Digital Age, <em>Evolutionary Studies in Imaginative Culture</em>, 2020</p>
+<p style="font-size:17px">Stefan Velesky, Review of Cultural Evolution in the Digital Age, <em>Evolutionary Studies in Imaginative Culture</em>, 2020</p>
 
-> <p style="font-size:17px">In "Cultural Evolution in the Digital Age", Acerbi combines cultural evolution with cognitive anthropology and media studies to provide one of the most solid science-based takes on the impact of digital media on human behavior to date.</p>
+<p style="font-size:17px"><em>In "Cultural Evolution in the Digital Age", Acerbi combines cultural evolution with cognitive anthropology and media studies to provide one of the most solid science-based takes on the impact of digital media on human behavior to date.</em></p>
 
-* <p style="font-size:17px">Andrew Buskell, Evolution, Cultural Evolution, and Epistemic Optimism], <em>Acta Biotheoretica</em>, 2020</p>
+<p style="font-size:17px">Andrew Buskell, Evolution, Cultural Evolution, and Epistemic Optimism], <em>Acta Biotheoretica</em>, 2020</p>
 
-> <p style="font-size:17px">[...] enjoyable, story-driven journey. [...] guide the reader through large and expanding literatures in an entertaining and illuminating way. [...] upbeat about human capabilities and provide a useful optimistic counterpoint to the recent spate of epistemological doomsayers.</p>
+<p style="font-size:17px"><em>[...] enjoyable, story-driven journey. [...] guide the reader through large and expanding literatures in an entertaining and illuminating way. [...] upbeat about human capabilities and provide a useful optimistic counterpoint to the recent spate of epistemological doomsayers.</em></p>
 
-* <p style="font-size:17px">Oleg Sobchuk, Cultural Evolution in the Digital Age], <em>Journal of Communication</em>, 2021</p>
+<p style="font-size:17px">Oleg Sobchuk, Cultural Evolution in the Digital Age], <em>Journal of Communication</em>, 2021</p>
 
-> <p style="font-size:17px">This book by the anthropologist Alberto Acerbi builds a bridge between the field of media and communication studies and a rather new approach to studying culture: cultural evolution. Can this bridge be a firm structure? And do media studies and cultural evolution even need each other? Acerbi makes a persuasive case for the usefulness and importance of this connection.</p>
+<p style="font-size:17px"><em>This book by the anthropologist Alberto Acerbi builds a bridge between the field of media and communication studies and a rather new approach to studying culture: cultural evolution. Can this bridge be a firm structure? And do media studies and cultural evolution even need each other? Acerbi makes a persuasive case for the usefulness and importance of this connection.</em></p>
 
-* <p style="font-size:17px">Simone Marsi, Cultural Evolution in the Digital Age, <em>Between</em>, 2022 (Italian)</p>
+<p style="font-size:17px">Simone Marsi, Cultural Evolution in the Digital Age, <em>Between</em>, 2022 (Italian)</p>
 
-> <p style="font-size:17px">Con rigore scientifico, poggiando i piedi su esperimenti di antropologia e riflessioni scientifiche sull’evoluzionismo, Acerbi ci conduce in un inedito viaggio nella nostra quotidianità, disvelando pregiudizi e falsi miti sul mondo digitale, che sottratto al dibattito tra apocalittici della società reale e guru integrati nel mondo dei social, ci viene riproposto come un luogo in cui l’uomo mette in scena sé stesso, con i suoi difetti più torbidi e la sua più alta aspirazione alla conoscenza. </p>
-
----
-
-<p style="font-size:17px">Book Club at <a href="https://cognitionandculture.net/webinars/index.html">cognitionandculture.net</a></p>
-
-<p style="font-size:17px">The <em>International Cognition and Culture Institute</em> has organised a book club around Cultural Evolution in the Digital Age running in June and July 2020. The book club includes my precis, commentaries by Alex Mesoudi, Hugo Mercier, Mathieu Charbonneau, Olivier Morin, Pascal Boyer, Sacha Altay, and Tiffany Morisseau, plus my reply.</p>
+<p style="font-size:17px"><em>Con rigore scientifico, poggiando i piedi su esperimenti di antropologia e riflessioni scientifiche sull’evoluzionismo, Acerbi ci conduce in un inedito viaggio nella nostra quotidianità, disvelando pregiudizi e falsi miti sul mondo digitale, che sottratto al dibattito tra apocalittici della società reale e guru integrati nel mondo dei social, ci viene riproposto come un luogo in cui l’uomo mette in scena sé stesso, con i suoi difetti più torbidi e la sua più alta aspirazione alla conoscenza.</em></p>
 
 ---
 
-<h5>Selected media coverage:</h5>
+<h4>Book Club at cognitionandculture.net:</h4>
 
-<p style="font-size:17px">Interview for the podcast 'The Dissenter'</p>
+<p style="font-size:17px">The <em>International Cognition and Culture Institute</em> has organised a book club around Cultural Evolution in the Digital Age running in June and July 2020. The book club includes my precis, commentaries by Alex Mesoudi, Hugo Mercier, Mathieu Charbonneau, Olivier Morin, Pascal Boyer, Sacha Altay, and Tiffany Morisseau, plus my reply. It is archived <a href="https://cognitionandculture.net/webinars/index.html">here</a>.</p>
+
+---
+
+<h4>Selected media coverage:</h4>
+
+<p style="font-size:17px">Interview for the podcast 'The Dissenter':</p>
 
 {{< youtube AX0Jy0__DbE >}}
 
-<p style="font-size:17px"><a href="https://www.cultured-scene.org/2020/07/15/cultural-evolution-in-the-digital-age/">Interview</a> for Cultured Scene, the Early Career Social Learning Researcher's Society magazine</p>
+<p style="font-size:17px"><a href="https://www.cultured-scene.org/2020/07/15/cultural-evolution-in-the-digital-age/">Interview</a> for Cultured Scene, the Early Career Social Learning Researcher's Society magazine.</p>
 
-<p style="font-size:17px"><a href="https://www.trouw.nl/wetenschap/sturen-algoritmen-ons-gedrag-dat-valt-best-mee~ba0035f5/">Sturen algoritmen ons gedrag? Dat valt best mee</a>, <em>Trouw</em> (The Netherlands)</p>
+<p style="font-size:17px"><a href="https://www.trouw.nl/wetenschap/sturen-algoritmen-ons-gedrag-dat-valt-best-mee~ba0035f5/">Sturen algoritmen ons gedrag? Dat valt best mee</a>, <em>Trouw</em> (The Netherlands).</p>
 
-<p style="font-size:17px"><a href="https://www.lepoint.fr/phebe/phebe-tout-ce-que-vous-pensiez-savoir-d-internet-est-sans-doute-faux-07-02-2020-2361661_3590.php#">Tout ce que vous pensiez savoir d'Internet est (sans doute) faux]</a>, <em>Le Point</em> (France)</p>
+<p style="font-size:17px"><a href="https://www.lepoint.fr/phebe/phebe-tout-ce-que-vous-pensiez-savoir-d-internet-est-sans-doute-faux-07-02-2020-2361661_3590.php#">Tout ce que vous pensiez savoir d'Internet est (sans doute) faux]</a>, <em>Le Point</em> (France).</p>
