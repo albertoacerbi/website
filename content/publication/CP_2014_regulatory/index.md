@@ -20,7 +20,7 @@ links:
 
 publication: Acerbi A., Ghirlanda S., Enquist M. (2014), Regulatory traits&#58; Cultural Influences on Cultural Evolution, in Cagnoni, S. et al. (Eds.), *Evolution, Complexity, and Artificial Life*, Springer, pp. 135 – 147
 publication_short: In Cagnoni, S. et al. (Eds.), *Evolution, Complexity, and Artificial Life*, Springer, pp. 135 – 147
-publication_types: ['book-chapter']
+publication_types: ['chapter']
 
 publishDate: "2014-01-01T00:00:00Z"
 slides: ""

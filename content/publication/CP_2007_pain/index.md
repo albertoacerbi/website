@@ -19,7 +19,8 @@ links:
 
 publication: Acerbi A., Parisi D. (2007), The evolution of pain, in Almeida e Costa, F. et al. (Eds.), *Advances in Artificial Life. Proceedings of ECAL 2007*, Berlin, Springer, pp. 816 – 824
 publication_short: In Almeida e Costa, F. et al. (Eds.), *Advances in Artificial Life. Proceedings of ECAL 2007*, Berlin, Springer, 816 – 824
-publication_types: ['conference-proceedings']
+publication_types: ['paper-conference']
+
 
 publishDate: "2007-09-14T00:00:00Z"
 slides: ""

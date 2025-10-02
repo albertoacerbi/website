@@ -19,7 +19,7 @@ links:
 
 publication: Marocco D., Acerbi A. (2007), Adaptation and Social Facilitation in a Population of Autonomous Robots, in Berthouze, L. et al. (Eds.), *Proceedings of the 7th International Conference on Epigenetic Robotics*, Lund, LUCS, pp. 85 – 91 
 publication_short: In Berthouze, L. et al. (Eds.), *Proceedings of the 7th International Conference on Epigenetic Robotics*, Lund, LUCS, pp. 85 – 91 
-publication_types: ['conference-proceedings']
+publication_types: ['paper-conference']
 publishDate: "2007-01-01T00:00:00Z"
 slides: ""
 summary: ""

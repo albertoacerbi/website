@@ -20,7 +20,8 @@ links:
 
 publication: Acerbi A., Ghirlanda, S., Enquist M. (2012), Regulatory Traits in Cultural Evolution, in Cagnoni, S. et al. (Eds.), *Proceedings of the Italian Workshop on Artificial Life and Evolutionary Computation*, University of Parma, pp. 1 – 9
 publication_short: In Cagnoni, S. et al. (Eds.), *Proceedings of the Italian Workshop on Artificial Life and Evolutionary Computation*, University of Parma, pp. 1 – 9
-publication_types: ['conference-proceedings']
+publication_types: ['paper-conference']
+
 
 publishDate: "2012-02-21T00:00:00Z"
 slides: ""

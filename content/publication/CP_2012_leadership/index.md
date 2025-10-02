@@ -21,7 +21,8 @@ links:
 
 publication: Pugliese F., Acerbi A., Miglino O., Marocco D. (2012), Emergence of Leadership in a Group of Autonomous Robots, in *Proceedings of the Post-Graduate Conference on Robotics and Development of Cognition*, pp. 36 – 39
 publication_short: In *Proceedings of the Post-Graduate Conference on Robotics and Development of Cognition*, pp. 36 – 39
-publication_types: ['conference-proceedings']
+publication_types: ['paper-conference']
+
 
 publishDate: "2012-09-12T00:00:00Z"
 slides: ""

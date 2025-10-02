@@ -20,7 +20,8 @@ links:
 
 publication: Acerbi A., Marocco D., Nolfi S. (2007), Social Facilitation on the Development of Foraging Behaviors in a Population of Autonomous Robots, in Almeida e Costa, F. et al. (Eds.), *Advances in Artificial Life. Proceedings of ECAL 2007*, Berlin, Springer, pp. 625 – 634
 publication_short: In Almeida e Costa, F. et al. (Eds.), *Advances in Artificial Life. Proceedings of ECAL 2007*, Berlin, Springer, pp. 625 – 634
-publication_types: ['conference-proceedings']
+publication_types: ['paper-conference']
+s
 
 publishDate: "2007-09-14T00:00:00Z"
 slides: ""

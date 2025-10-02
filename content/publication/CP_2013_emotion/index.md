@@ -20,7 +20,8 @@ links:
 
 publication: Acerbi A., Lampos V., Bentley R. A. (2013), Robustness of emotion extraction from 20th century English books, in *IEEE BigData 2013 Proceedings*, pp. 1 – 8
 publication_short: In *IEEE BigData 2013 Proceedings*, pp. 1 – 8
-publication_types: ['conference-proceedings']
+publication_types: ['paper-conference']
+
 
 publishDate: "2013-10-09T00:00:00Z"
 slides: ""

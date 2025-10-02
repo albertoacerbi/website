@@ -19,7 +19,7 @@ links:
 
 publication: Acerbi A., Nolfi S. (2007), Social Learning and Cultural Evolution in Embodied and Situated Agents, in *Proceedings of the First IEEE Symposium on Artificial Life*, IEEE Press, Piscataway, NJ, pp. 333 – 340
 publication_short: In *Proceedings of the First IEEE Symposium on Artificial Life*, IEEE Press, Piscataway, NJ, pp. 333 – 340
-publication_types: ['conference-proceedings']
+publication_types: ['paper-conference']
 publishDate: "2007-04-05T00:00:00Z"
 slides: ""
 summary: ""

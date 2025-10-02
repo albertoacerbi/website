@@ -21,7 +21,8 @@ links:
 publication: Pianzola F., Acerbi A., Rebora S. (2020), Cultural Accumulation and Improvement in Online Fan Fiction, in Karsdorp, F. et al. (Eds.), *Proceedings of the Workshop on Computational Humanities Research*, CEUR-WS, pp. 2 - 11
 publication_short: In Karsdorp, F. et al. (Eds.), *Proceedings of the Workshop on Computational Humanities Research*, CEUR-WS, pp. 2 - 11
 
-publication_types: "1"
+publication_types: ['paper-conference']
+
 
 publishDate: "2020-11-03T00:00:00Z"
 slides: ""

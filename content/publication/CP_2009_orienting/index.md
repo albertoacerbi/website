@@ -19,7 +19,8 @@ links:
 
 publication: Acerbi A., Marocco D. (2009), Orienting learning by exploiting sociality&#58; an evolutionary robotics simulation, in *IJCNN 2009 Conference Proceedings*, Piscataway, NJ, IEEE Press, pp. 20 – 27
 publication_short: In *IJCNN 2009 Conference Proceedings*, Piscataway, NJ, IEEE Press, pp. 20 – 27
-publication_types: ['conference-proceedings']
+publication_types: ['paper-conference']
+
 
 publishDate: "2009-06-19T00:00:00Z"
 slides: ""
