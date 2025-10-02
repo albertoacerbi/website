@@ -38,7 +38,7 @@ url_video: ""
 
 ---
 
-<p style="font-size:12px">Academic reviews:</p>
+<p style="font-size:17px">Academic reviews:</p>
 
 * Joshua Conrad Jackson, [New Technology, Same Culture](https://escholarship.org/uc/item/8hg2441f), *Cliodynamics: The Journal of Quantitative History and Cultural Evolution*, 2020
 
