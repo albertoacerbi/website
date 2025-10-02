@@ -68,14 +68,14 @@ url_video: ""
 
 ---
 
-<p style="font-size:17px">Selected media coverage:</p>
+<h5>Selected media coverage:</h5>
 
-* <p style="font-size:17px">Interview for the podcast 'The Dissenter'</p>
+<p style="font-size:17px">Interview for the podcast 'The Dissenter'</p>
 
 {{< youtube AX0Jy0__DbE >}}
 
-* <p style="font-size:17px"><a href="https://www.cs.eslrsociety.org/2020/07/15/cultural-evolution-in-the-digital-age/">Interview for Cultured Scene, the Early Career Social Learning Researcher's Society magazine</a></p>
+<p style="font-size:17px"><a href="https://www.cultured-scene.org/2020/07/15/cultural-evolution-in-the-digital-age/">Interview</a> for Cultured Scene, the Early Career Social Learning Researcher's Society magazine</p>
 
-* <p style="font-size:17px"><a href="https://www.trouw.nl/wetenschap/sturen-algoritmen-ons-gedrag-dat-valt-best-mee~ba0035f5/">Sturen algoritmen ons gedrag? Dat valt best mee</a>, <em>Trouw</em> (The Netherlands)</p>
+<p style="font-size:17px"><a href="https://www.trouw.nl/wetenschap/sturen-algoritmen-ons-gedrag-dat-valt-best-mee~ba0035f5/">Sturen algoritmen ons gedrag? Dat valt best mee</a>, <em>Trouw</em> (The Netherlands)</p>
 
-* [<p style="font-size:17px"><a href="https://www.lepoint.fr/phebe/phebe-tout-ce-que-vous-pensiez-savoir-d-internet-est-sans-doute-faux-07-02-2020-2361661_3590.php#">Tout ce que vous pensiez savoir d'Internet est (sans doute) faux]</a>, <em>Le Point</em> (France)</p>
+<p style="font-size:17px"><a href="https://www.lepoint.fr/phebe/phebe-tout-ce-que-vous-pensiez-savoir-d-internet-est-sans-doute-faux-07-02-2020-2361661_3590.php#">Tout ce que vous pensiez savoir d'Internet est (sans doute) faux]</a>, <em>Le Point</em> (France)</p>
