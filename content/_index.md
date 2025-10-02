@@ -39,7 +39,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: books
     content:
       title: Books
       filters:
@@ -50,6 +50,7 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    id: publication
     content:
       title: Recent Publications
       text: ""
