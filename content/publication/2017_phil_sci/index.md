@@ -18,7 +18,7 @@ links:
 
 publication: Acerbi A. (2017), Review of Tim Lewens, Cultural Evolution&#58 Conceptual Challenges, *Philosophy of Science*, 84  (1)
 publication_short: In *Philosophy of Science*, 84  (1)
-publication_types: ["article-journal"]
+publication_types: ["review-book"]
 publishDate: "2017-01-01T00:00:00Z"
 slides: ""
 summary: ""

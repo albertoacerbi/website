@@ -18,7 +18,7 @@ links:
 
 publication: Acerbi A. (2021), Review of Joseph Henrich, The Weirdest People in the World, *Evolutionary Studies in Imaginative Culture*, 5  (1), 91-96
 publication_short: In *Evolutionary Studies in Imaginative Culture*, 5  (1)
-publication_types: ["article-journal"]
+publication_types: ["review-book"]
 publishDate: "2020-06-15T00:00:00Z"
 slides: ""
 summary: ""
