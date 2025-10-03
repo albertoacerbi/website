@@ -35,8 +35,19 @@ url_source: ""
 url_video: ""
 ---
 
-The book has had extensive media coverage in Italy. Here some examples:
+<p style="font-size:17px">The book has had extensive media coverage in Italy. Here some examples:</p>
 
+<h4>Videos:</h4>
+
+<p style="font-size:17px">An interview for WAR ROOM:</p>
+
+{{< youtube NSQCO5KK3SU >}}
+
+<p style="font-size:17px">An interview for WAR ROOM:</p>
+
+{{< youtube F4a27Ldm1WI >}}
+
+---
 
 
 
