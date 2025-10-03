@@ -35,7 +35,8 @@ url_source: ""
 url_video: ""
 ---
 
-<p style="font-size:17px">The book has had extensive media coverage in Italy. Here some examples:</p>
+---
+
 <h4>Videos:</h4>
 
 A <a href="https://www.rainews.it/tgr/trento/video/2025/04/tecnopanico-acerbi-smartphone-fake-news-media-social-2bec8e78-ce9a-4ad8-8038-24814688a66d.html">report<\a> from RAI Trentino.
