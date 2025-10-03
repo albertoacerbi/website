@@ -43,7 +43,7 @@ url_video: ""
 
 <p style="font-size:17px"><a href="http://www.rai.tv/dl/RaiTV/programmi/media/ContentItem-61628d64-0e47-47be-ae09-13e373e6626e.html">Il cantiere delle idee</a>, a RAI production.</p>
 
-<p style="font-size:17px">Book presentation at <em>Acta Diurna</em></p>
+<p style="font-size:17px">Book presentation at <em>Acta Diurna</em>:</p>
 
 {{< youtube WPk4zIfHkko >}}
 
