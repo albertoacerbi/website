@@ -43,6 +43,10 @@ url_video: ""
 
 <p style="font-size:17px"><a href="http://www.rai.tv/dl/RaiTV/programmi/media/ContentItem-61628d64-0e47-47be-ae09-13e373e6626e.html">Il cantiere delle idee</a>, a RAI production.</p>
 
+<p style="font-size:17px">Book presentation at <em>Acta Diurna</em></p>
+
+{{< youtube WPk4zIfHkko >}}
+
 <p style="font-size:17px">An interview for WAR ROOM:</p>
 
 {{< youtube NSQCO5KK3SU >}}
@@ -50,6 +54,12 @@ url_video: ""
 <p style="font-size:17px">A dialogue with Damiano Orru, from the Associazione Italiana Bibloteche:</p>
 
 {{< youtube F4a27Ldm1WI >}}
+
+<p style="font-size:17px">Book presentation at <em>ItalyPost</em>:</p>
+
+{{< youtube vp8mX4jMwLo >}}
+
+
 
 ---
 
