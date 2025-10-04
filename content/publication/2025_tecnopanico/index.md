@@ -47,7 +47,7 @@ url_video: ""
 
 {{< youtube WPk4zIfHkko >}}
 
-<p style="font-size:17px">An interview for WAR ROOM:</p>
+<p style="font-size:17px">An interview for War Room/linkiesta:</p>
 
 {{< youtube NSQCO5KK3SU >}}
 
@@ -59,9 +59,25 @@ url_video: ""
 
 {{< youtube vp8mX4jMwLo >}}
 
-
-
 ---
+
+<h4>Reviews in general press:</h4>
+
+ <p style="font-size:17px">Cosa è il tecnopanico e perché non serve a criticare la tecnologia (e Big Tech). <a href="https://www.guerredirete.it/cosa-e-il-tecnopanico/">Guerre di Rete</a>.</p>
+
+<p style="font-size:17px">Tecnopanico? Come affrontare il digitale con intelligenza. <a href="https://www.resistenzequotidiane.it/tecnopanico-come-affrontare-il-digitale-con-intelligenza/
+">Resistenze Quotidiane</a>.</p>
+
+<p style="font-size:17px">Un saggio sulla comunicazione, a partire da disinformazione e fake news, per capire quanto siamo realmente influenzabili. <a href="https://www.confidenze.com/leggi-con-noi/tecnopanico-di-alberto-acerbi/
+">Confidenze</a>.</p>
+
+<p style="font-size:17px">La fake news più grande in Rete...è quella sulle fake news in Rete. <a href="https://www.laverita.info/la-fake-news-piu-grande-in-rete-e-quella-sulle-fake-news-in-rete-2671351886.html
+">La Verità</a>.</p>
+
+<p style="font-size:17px">Tecnopanico. Il processo di mostrificazione dei media digitali. <a href="https://www.carmillaonline.com/2025/04/19/tecnopanico-il-processo-di-mostrificazione-dei-media-digitali/
+">Carmilla Online</a>.</p>
+
+ <p style="font-size:17px">Smartphone e social, così la scienza sfata il 'Tecnopanico'. <a href="https://www.ansa.it/canale_scienza/notizie/libri/2025/04/28/smartphone-e-social-cosi-la-scienza-sfata-il-tecnopanico_f9f669d2-b761-47e1-9c88-3257a2088cd9.html">ANSA</a>.</p>
 
 
 
