@@ -34,11 +34,13 @@ sections:
     id: research
     content:
       title: 'Research'
-      subtitle: ''
-      text: |-
-        Lorem ipsum
+      filters:
+        folders:
+          - research
+        featured_only: true
     design:
-      columns: '1'
+      view: article-grid
+      columns: 2
   - block: collection
     id: books
     content:
