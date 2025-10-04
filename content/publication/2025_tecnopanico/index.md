@@ -51,7 +51,7 @@ url_video: ""
 
 {{< youtube NSQCO5KK3SU >}}
 
-<p style="font-size:17px">A dialogue with Damiano Orru, from the Associazione Italiana Bibloteche:</p>
+<p style="font-size:17px">A dialogue with Damiano Orru, from the Associazione Italiana Biblioteche:</p>
 
 {{< youtube F4a27Ldm1WI >}}
 
@@ -79,5 +79,11 @@ url_video: ""
 
  <p style="font-size:17px">Smartphone e social, così la scienza sfata il 'Tecnopanico'. <a href="https://www.ansa.it/canale_scienza/notizie/libri/2025/04/28/smartphone-e-social-cosi-la-scienza-sfata-il-tecnopanico_f9f669d2-b761-47e1-9c88-3257a2088cd9.html">ANSA</a>.</p>
 
+<h4>Radio:</h4>
 
+ <p style="font-size:17px">L'effetto culturale dei media sulla società: al telefono Alberto Acerbi. <a href="https://www.deejay.it/programmi/il-boss-del-weekend/highlights/leffetto-culturale-dei-media-sulla-societa-al-telefono-alberto-acerbi/">Radio DeeJay - Il boss del weekend</a>.</p>
+
+ <p style="font-size:17px">Il cambio di stagione. <a href="https://www.raiplaysound.it/audio/2025/04/I-podcast-di-Play-books-Ep139-Il-cambio-di-stagione-462e1977-1484-44e5-96c7-d8dbb70896de.html">RAI Play - I podcast di Play Books</a>.</p>
+
+ <p style="font-size:17px">LASER: La paura dell’innovazione . <a href="https://www.rsi.ch/rete-due/programmi/cultura/laser/La-paura-dell’innovazione--2848877.html">RSI Radio Svizzera Italiana</a>.</p>
 
