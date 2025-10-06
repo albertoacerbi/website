@@ -48,12 +48,12 @@ profiles:
   - icon: academicons/osf
     url: https://osf.io/hcb6u/
 
-interests:
-  - Cultural Evolution 
-  - Digital Media
-  - Cultural Analytics
-  - Modelling
-  - Computational Social Science
+# interests:
+#  - Cultural Evolution 
+#  - Digital Media
+#  - Cultural Analytics
+#  - Modelling
+#  - Computational Social Science
 
 # education:
 #   - area: PhD Artificial Intelligence
