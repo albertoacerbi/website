@@ -8,7 +8,7 @@ main:
     url: /#news
     weight: 10
   - name: Research
-    url: /#research
+    url: research/
     weight: 20
   - name: Books
     url: /#books
@@ -19,3 +19,4 @@ main:
   - name: Teaching
     url: /#teaching
     weight: 50
+
