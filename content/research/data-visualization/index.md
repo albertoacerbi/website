@@ -1,6 +1,5 @@
 ---
 title: Cultural evolution in the digital age
-date: 2023-10-25
 authors:
   - admin
 tags:
