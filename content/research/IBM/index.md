@@ -1,5 +1,5 @@
 ---
-title: Individual-based model of cultural evolution
+title: Individual-based models of cultural evolution
 date: 2025-10-06
 authors:
   - admin
