@@ -36,7 +36,7 @@ sections:
       title: 'News'
       subtitle: ''
       text: 
-        <p style="font-size:17px"><b>2 October 2025:</b> New preprint: <a href="https://osf.io/preprints/psyarxiv/b7cmv_v1">Why Incels Capture Attention: A Cultural Attraction Theory Perspective<\a>.</p>
+        <p style="font-size:17px"><b>2 October 2025:</b> New preprint: <a href="https://osf.io/preprints/psyarxiv/b7cmv_v1">Why Incels Capture Attention: A Cultural Attraction Theory Perspective</a>.</p>
     design:
       columns: '1'
   - block: collection
