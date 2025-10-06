@@ -78,6 +78,20 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: markdown
+    id: teaching
+    content:
+      title: 'Teaching'
+      subtitle: ''
+      text: |-
+        <p style="font-size:17px"><a href="https://unitn.coursecatalogue.cineca.it/insegnamenti/2025/50955_651661_96405/2024/50956/10760?annoOrdinamento=20245">Current issues in digital media and politics</a>: Master-level module for Data Science, first term (co-taught with Prof. Elena Pavan).</p>
+
+        <p style="font-size:17px"><a href="https://unitn.coursecatalogue.cineca.it/insegnamenti/2025/50767_650246_95906/2025/50767/10848?annoOrdinamento=2025">Cultural analytics</a>: Master-level module for Sociology and Social Research, second term.</p>
+
+        <p style="font-size:17px"><a href="https://unitn.coursecatalogue.cineca.it/insegnamenti/2025/50757_649629_96116/2025/50758/10844?annoOrdinamento=2025">Costruire un disegno di analisi dei fenomeni sociali</a>: BSc-level module for Sociology, second term.</p>
+
+    design:
+      columns: '1'
   # - block: collection
   #   id: talks
   #   content:
