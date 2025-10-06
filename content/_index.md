@@ -36,7 +36,13 @@ sections:
       title: 'News'
       subtitle: ''
       text: |-
-        <p style="font-size:17px"><b>2 October 2025:</b> New preprint: <a href="https://osf.io/preprints/psyarxiv/b7cmv_v1">Why Incels Capture Attention: A Cultural Attraction Theory Perspective</a>.</p>
+        <p style="font-size:17px"><b>2 October 2025:</b> New preprint with William Costello: <a href="https://osf.io/preprints/psyarxiv/b7cmv_v1">Why Incels Capture Attention: A Cultural Attraction Theory Perspective</a>.</p>
+
+        <p style="font-size:17px"><b>2 October 2025:</b> The website for the Leverhulme project <a href="https://weaponisedpasts.org/">Weaponised Pasts</a> is live.</p>
+
+        <p style="font-size:17px"><b>1 October 2025:</b> The Associazione Italiana Biblioteche had a reading group about Tecnopanico. <a href="https://weaponisedpasts.org/">Here a video</a> where I answer to their questions.</p>
+
+        <p style="font-size:17px"><b>30 September 2025:</b> New preprint with Eliana Fattorini, Massimiano Bucchi, and Enzo Loner: <a href="https://osf.io/preprints/socarxiv/bevts_v1">Weapon and Poison: Framing Disinformation in European Commission Speeches, 2016–2024</a>.</p>
     design:
       columns: '1'
   - block: collection
