@@ -51,7 +51,7 @@ sections:
       title: Research
       filters:
         folders:
-          - research
+          - post
         featured_only: false
     design:
       view: article-grid
