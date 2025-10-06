@@ -46,6 +46,17 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: research
+    content:
+      title: Research
+      filters:
+        folders:
+          - research
+        featured_only: false
+    design:
+      view: article-grid
+      columns: 2
+  - block: collection
     id: books
     content:
       title: Books
