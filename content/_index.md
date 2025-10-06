@@ -35,7 +35,7 @@ sections:
     content:
       title: 'News'
       subtitle: ''
-      text: |-
+      text: 
         <p style="font-size:17px">Test.</p>
     design:
       columns: '1'
