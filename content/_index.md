@@ -30,6 +30,15 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: markdown
+    id: news
+    content:
+      title: 'News'
+      subtitle: ''
+      text: |-
+        <p style="font-size:17px">Test.</p>
+    design:
+      columns: '1'
   - block: collection
     id: research
     content:
