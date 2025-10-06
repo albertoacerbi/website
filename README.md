@@ -7,14 +7,10 @@ The website is online at [https://acerbialberto.com]()
 ### TO DO:
 
 - In "Publications" section:
-  -   consolidate tag system?
-  -   Altmetric?
+  -   Altmetric
 
-- Sections to add:
-  - Contact?     
-  - News?
-  - Talks?
-  - Teaching?
+-  Analytics?
+
 
 ### Notes
 
