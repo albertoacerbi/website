@@ -1,5 +1,5 @@
 ---
-title: Cultural evolution in the digital age
+title: Digital media and cultural evolution
 date: 2025-10-06
 authors:
   - admin
@@ -7,4 +7,4 @@ tags:
   - Research
 ---
 
-In the last years, I became heavily involved in research on digital media. From my perspective, I am interested in how cultural evolution can contribute to the study of cultural dynamics in the digital age, and, at the same time, how new digital media impact on human cultural evolution. [Here]({{< ref "publication/2016_FHN" >}}) is an early paper where I present some possible areas of interest and [here]({{< ref "publication/2019_pal_comm_a" >}}) one where I study online misinformation from a cognitive anthropology perspective. I am also working on how digital media can enhance cumulative cultural evolution, using, so far, the case study of [online fan fiction](https://acerbialberto.com/publication/cp_2020_chr/), or on how content biases may act differently for the same story when transmitted orally (similar to the telephone game) with respect to when [shared online]({{< ref "publication/2022_HN_chains" >}}). I did some research on online misinformation and, consistently with an evolutionary approach to social learning, I believe that it is not [such a big problem as many believe]({{< ref "publication/2023_misinfo_on_misinfo" >}}), that people that think online misinformation is dangerous tend to also believe that [other (not themselves!) people are particularly gullible]({{< ref "publication/2024_misinfo_third_person" >}}), and that we would do better to [focus on the broad digital information ecosystem instead that looking specifically to 'fake news']({{< ref "publication/2022_HKS_misinfo" >}}) . I wrote a book on the topic, [published by Oxford University Press in 2020](https://global.oup.com/academic/product/cultural-evolution-in-the-digital-age-9780198835943). You won't probably find it in airport bookshops, but it [was generally well accepted]({{< ref "publication/2019_OUP" >}}).
+Here [an external link](https://global.oup.com/academic/product/cultural-evolution-in-the-digital-age-9780198835943). Here [an internal one]({{< ref "publication/2019_OUP" >}}).
