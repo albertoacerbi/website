@@ -1,26 +1,12 @@
 ---
 title: Research
-date: 2024-05-19
-type: landing
+cms_exclude: true
 
-design:
-  # Section spacing
-  spacing: '5rem'
+# View.
+view: article-grid
 
-# Page sections
-sections:
-  - block: collection
-    content:
-      title: Research
-      text: 
-      filters:
-        folders:
-          - research
-    design:
-      view: article-grid
-      fill_image: false
-      columns: 2
-      show_date: false
-      show_read_time: false
-      show_read_more: false
+# Optional header image (relative to `static/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
