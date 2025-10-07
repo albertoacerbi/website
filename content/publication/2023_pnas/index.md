@@ -29,7 +29,7 @@ summary: ""
 tags:
 - digital media
 
-title: "Large language models show human-like content biases in transmission chain experiment"
+title: "Large language models show human-like content biases in transmission chain experiments"
 url_code: "https://osf.io/6v2ps/"
 url_dataset: "https://osf.io/6v2ps/"
 url_pdf: files/2023_pnas.pdf
