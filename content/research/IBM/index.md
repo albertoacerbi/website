@@ -11,7 +11,7 @@ I started my academic career as a modeller (in fact, as an artificial life/robot
 
 In general, I use models both to explore theoretical questions in cultural evolution and to simulate empirical dynamics — for example, the spread of information on social media. Recent topics I have worked on include:
 
-- whether interventions that increase trust in reliable news are more effective than those that decrease trust in fake news: [they are — since reliable news is much more abundant than fake news]({{< ref "publication/2022_HKS_misinfo" >}};
+- whether interventions that increase trust in reliable news are more effective than those that decrease trust in fake news: [they are — since reliable news is much more abundant than fake news]({{< ref "publication/2022_HKS_misinfo" >}});
 
 - whether cultural stability can emerge without copying or selection: [it can]({{< ref "publication/2021_EHS" >}});
 
