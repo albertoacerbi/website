@@ -7,8 +7,13 @@ tags:
   - Research
 ---
 
-I am also interested in theoretical aspects of cultural evolution. What is probably my main interest is the debate between cultural attraction theory and “standard” cultural evolution theory. [This paper]({{< ref "publication/2015_phil_bio" >}}) can be a good start to understand what is at stake.
+Much of my work is inspired by the cultural attraction theory framework, developed within the so-called _Paris School_ of cultural evolution. This approach views culture not mostly as something copied and transmitted, but as something continually reconstructed through individual cognition and interaction. When ideas, behaviours, or artefacts are transmitted, they are not reproduced perfectly — they are transformed in systematic ways by our psychological biases, inferential processes, and communicative contexts.
 
-I believe that cultural attraction theory presents some important points that deserve further empirical investigation. Among them, one is the influence of general cognitive factors on culture, from [folktales]({{< ref "publication/2017_EHB" >}}) to [online misinformation]({{< ref "publication/2019_pal_comm_a" >}}). Another is the fact that, in some domains, the actual [content]({{< ref "publication/2018_JOCC" >}}) of cultural traits might be more important than contextual or “social” factors to determine their success. 
+From this perspective, cultural stability and change emerge from the interaction between individual cognitive tendencies and population-level dynamics, rather than from faithful imitation alone. This view contrasts with more traditional “selectionist” models of culture, and instead highlights the creative, reconstructive nature of cultural transmission. [This paper]({{< ref "publication/2015_phil_bio" >}}), which attempts to build a bridge between the approaches, may be a good starting point to understand what is at stake.
 
- I recently worked on a series of [simulation models]({{< ref "publication/2021_EHS" >}}) that can be considered an attempt to formalise cultural attraction theory. 
+I have developed models inspired by cultural attraction theory, showing that cultural stability can emerge [without copying or selection]({{< ref "publication/2021_EHS" >}}), or that stable individual tendencies [can override social learning forces]({{< ref "publication/2025_pnas" >}}).
+
+ I have also tested predictions of the cultural attraction view using large-scale datasets from [folktale complexity]({{< ref "publication/2017_EHB" >}, to [online misinformation]({{< ref "publication/2019_pal_comm_a" >}}) to understand how psychological and ecological factors jointly shape cultural evolution.
+
+
+
