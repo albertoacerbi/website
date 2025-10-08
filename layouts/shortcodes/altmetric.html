@@ -1,1 +1,19 @@
-
+{{ if .IsNamedParams }}
+<figure class="altmetric-embed" data-badge-type="{{ .Get "badge_type" | default "donut" }}"
+   data-doi="{{ .Get "doi" }}"
+   data-isbn="{{ .Get "isbn" }}"
+   data-arxiv-id="{{ .Get "arxiv_id" }}"
+   data-pubmed-id="{{ .Get "pubmed_id" }}"
+   data-badge-details="{{ .Get "details" | default "right" }}"
+   style="width:{{ .Get "width" | default "100px" }}; height:{{ .Get "height" | default "100px" }};"></figure>
+<script async src="//badges.altmetric.com/?badge_type={{ .Get "badge_type" | default "donut" }}"></script>
+{{ else }}
+<figure class="altmetric-embed" data-badge-type="donut"
+   data-doi="{{ .Get 1 }}"
+   data-isbn="{{ .Get 2 }}"
+   data-arxiv-id="{{ .Get 3 }}"
+   data-pubmed-id="{{ .Get 4 }}"
+   data-badge-details="right"
+   style="width:{{ .Get 5 | default "100px" }}; height:{{ .Get 6 | default "100px" }};"></figure>
+<script async src="//badges.altmetric.com/?badge_type=donut"></script>
+{{ end }}
