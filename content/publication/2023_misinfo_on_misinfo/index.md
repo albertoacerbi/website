@@ -37,4 +37,5 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
-{{< altmetric doi="10.1177/20563051221150412" badge_type="donut" details="right" width="150px" height="150px" >}}
+<div class="altmetric-embed" data-badge-type="donut" data-doi="10.1177/20563051221150412"></div>
+
