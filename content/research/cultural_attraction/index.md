@@ -13,7 +13,7 @@ From this perspective, cultural stability and change emerge from the interaction
 
 I have developed models inspired by cultural attraction theory, showing that cultural stability can emerge [without copying or selection]({{< ref "publication/2021_EHS" >}}), or that stable individual tendencies [can override social learning forces]({{< ref "publication/2025_pnas" >}}).
 
- I have also tested predictions of the cultural attraction view using large-scale datasets from [folktale complexity]({{< ref "publication/2017_EHB" >}, to [online misinformation]({{< ref "publication/2019_pal_comm_a" >}}) to understand how psychological and ecological factors jointly shape cultural evolution.
+I have also tested predictions of the cultural attraction view using large-scale datasets from [folktale complexity]({{< ref "publication/2017_EHB" >}, to [online misinformation]({{< ref "publication/2019_pal_comm_a" >}}) to understand how psychological and ecological factors jointly shape cultural evolution.
 
 
 
