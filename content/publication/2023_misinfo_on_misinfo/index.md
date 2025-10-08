@@ -25,7 +25,7 @@ slides: ""
 summary: ""
 
 tags:
-- digital media
+- Digital media and cultural evolution
 
 title: "Misinformation on Misinformation: Conceptual and Methodological Challenges"
 url_code: ""

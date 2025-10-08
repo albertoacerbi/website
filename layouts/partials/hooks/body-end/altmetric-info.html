@@ -1,30 +1,33 @@
-{{ if .IsPage }}
 <script>
 document.addEventListener("DOMContentLoaded", function() {
-  const doi = "{{ . }}";
-  const badge = document.querySelector('.altmetric-embed');
-  if (!badge) return;
+  const badges = document.querySelectorAll('.altmetric-embed');
 
-  // Fetch data from Altmetric API
-  fetch(`https://api.altmetric.com/v1/doi/${encodeURIComponent(doi)}`)
-    .then(res => res.json())
-    .then(data => {
-      const tweets = data.cited_by_tweeters_count || 0;
-      const bluesky = data.cited_by_bsky_users_count || 0;
-      const mendeley = data.readers?.mendeley || 0;
+  badges.forEach(badge => {
+    const doi = badge.getAttribute('data-doi');
+    if (!doi) return;
 
-      const info = document.createElement('p');
-      info.className = 'altmetric-stats text-sm text-gray-600 mt-2';
-      info.style.fontSize = '0.9rem';
-      info.style.color = '#666';
-      info.innerHTML = `
-        Posted by ${tweets} X users<br>
-        Referenced by ${bluesky} Bluesky users<br>
-        ${mendeley} readers on Mendeley
-      `;
-      badge.insertAdjacentElement('afterend', info);
-    })
-    .catch(err => console.error('Altmetric fetch failed', err));
+    fetch(`https://api.altmetric.com/v1/doi/${encodeURIComponent(doi)}`)
+      .then(res => res.json())
+      .then(data => {
+        const tweets = data.cited_by_tweeters_count || 0;
+        const bluesky = data.cited_by_bsky_users_count || 0;
+        const mendeley = data.readers?.mendeley || 0;
+
+        // Skip if all counts are zero
+        if (tweets + bluesky + mendeley === 0) return;
+
+        const info = document.createElement('p');
+        info.className = 'altmetric-stats text-sm text-gray-600 mt-2';
+        info.style.fontSize = '0.9rem';
+        info.style.color = '#666';
+        info.innerHTML = `
+          Posted by ${tweets} X users<br>
+          Referenced by ${bluesky} Bluesky users<br>
+          ${mendeley} readers on Mendeley
+        `;
+        badge.insertAdjacentElement('afterend', info);
+      })
+      .catch(err => console.error('Altmetric fetch failed', err));
+  });
 });
 </script>
-{{ end }}
