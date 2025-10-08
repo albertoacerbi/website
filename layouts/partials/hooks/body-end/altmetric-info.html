@@ -1,11 +1,23 @@
 <script>
 document.addEventListener("DOMContentLoaded", function() {
+  // Find all Altmetric badges
   const badges = document.querySelectorAll('.altmetric-embed');
 
   badges.forEach(badge => {
     const doi = badge.getAttribute('data-doi');
     if (!doi) return;
 
+    // Create small score badge before the donut, if not already present
+    const scoreBadge = document.createElement('div');
+    scoreBadge.className = 'altmetric-embed inline-block align-middle mr-2';
+    scoreBadge.setAttribute('data-badge-type', 'score');
+    scoreBadge.setAttribute('data-doi', doi);
+    scoreBadge.setAttribute('data-link-target', '_blank');
+    scoreBadge.style.display = 'inline-block';
+
+    badge.parentNode.insertBefore(scoreBadge, badge);
+
+    // Fetch additional data
     fetch(`https://api.altmetric.com/v1/doi/${encodeURIComponent(doi)}`)
       .then(res => res.json())
       .then(data => {
