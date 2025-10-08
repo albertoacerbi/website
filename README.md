@@ -8,6 +8,7 @@ The website is online at [https://acerbialberto.com]()
 
 - In "Publications" section:
   -   Altmetric
+  -   consolidate tags
 
 -  Analytics?
 
