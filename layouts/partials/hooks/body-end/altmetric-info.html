@@ -1,4 +1,4 @@
-{{ with .Params.doi }}
+{{ if .IsPage }}
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   const doi = "{{ . }}";
