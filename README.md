@@ -10,9 +10,6 @@ The website is online at [https://acerbialberto.com]()
   -   Altmetric
   -   consolidate tags
 
--  Analytics?
-
-
 ### Notes
 
 - Publications types are based on CSL specifications, the list can be found [here](https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types)
