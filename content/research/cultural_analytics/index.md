@@ -13,7 +13,7 @@ For example, I have used:
 
  - [dog registrations data]({{< ref "publication/2013_plos_a" >}}) to examine whether breed popularity is driven by individual preferences or social influence;
  
- - data from [Google Books]({{< ref "publication/2013_plos_a" >}}), the [Gutenberg project]({{< ref "publication/2017_cog_emo" >}}), and [English language songs]({{< ref "publication/2019_EHS" >}}) dto uncover a general decline in the expression of emotions, mostly due to a decrease in _positive_ emotions;
+ - data from [Google Books]({{< ref "publication/2013_plos_a" >}}), the [Gutenberg project]({{< ref "publication/2017_cog_emo" >}}), and [English language songs]({{< ref "publication/2019_EHS" >}}) to uncover a general decline in the expression of emotions, mostly due to a decrease in _positive_ emotions;
  
  - [baby names records and last.fm playlists]({{< ref "publication/2014_EHB" >}}) to test whether changes in the popularity of cultural traits reveal the learning biases involved;
  
