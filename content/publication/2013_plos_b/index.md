@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0059030
 # - name: OSF repository
 #  url: http://osf.io/fjkze/
@@ -27,10 +27,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- emotions
-- fiction
-- text mining
+# - digital media and cultural evolution
+- cultural evolution and cultural attraction 
+- Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: "The expression of emotions in 20th century books"
 url_code: ""
@@ -42,3 +42,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0059030" data-hide-no-mentions="true" class="altmetric-embed"></div>

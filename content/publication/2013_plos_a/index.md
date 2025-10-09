@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0074770
 # - name: OSF repository
 #  url: http://osf.io/fjkze/
@@ -27,7 +27,9 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
+
+- Quantitative analysis of large scale cultural data
+
 
 title: "Fashion vs. Function in Cultural Evolution: The Case of Dog Breed Popularity"
 url_code: ""
@@ -39,3 +41,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1371/journal.pone.00747700" data-hide-no-mentions="true" class="altmetric-embed"></div>

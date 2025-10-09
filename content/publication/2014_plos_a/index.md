@@ -12,9 +12,9 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: AKC (American Kennel Club) dataset
+- name: data
   url: https://figshare.com/articles/American_Kennel_Club_Breed_Popularity_Statistics/715895
-- name: Link to published version
+- name: Link
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106565
 # - name: OSF repository
 #  url: http://osf.io/fjkze/
@@ -28,7 +28,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+- Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: "Dog Movies Stars and Dog Breed Popularity: A Case Study in Media Influence on Choice"
 url_code: ""
@@ -40,3 +43,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0106565" data-hide-no-mentions="true" class="altmetric-embed"></div>

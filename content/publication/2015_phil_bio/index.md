@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: https://link.springer.com/article/10.1007/s10539-015-9490-2
 #- name: OSF repository
 #  url: http://osf.io/fjkze/
