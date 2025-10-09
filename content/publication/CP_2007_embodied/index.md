@@ -24,6 +24,12 @@ publishDate: "2007-04-05T00:00:00Z"
 slides: ""
 summary: ""
 
+tags:
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
+
 title: "Social Learning and Cultural Evolution in Embodied and Situated Agents"
 
 url_code: ""

@@ -24,6 +24,12 @@ publishDate: "2007-01-01T00:00:00Z"
 slides: ""
 summary: ""
 
+tags:
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
+
 title: "Adaptation and Social Facilitation in a Population of Autonomous Robots"
 url_code: ""
 url_dataset: ""

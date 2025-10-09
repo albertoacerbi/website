@@ -26,6 +26,11 @@ publishDate: "2009-06-19T00:00:00Z"
 slides: ""
 summary: ""
 
+tags:
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: "Orienting learning by exploiting sociality: an evolutionary robotics simulations"
 url_code: ""

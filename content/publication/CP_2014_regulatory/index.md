@@ -27,7 +27,10 @@ slides: ""
 summary: ""
 
 tags:
-- individual based models
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: "Regulatory traits: Cultural Influences on Cultural Evolution"
 url_code: ""

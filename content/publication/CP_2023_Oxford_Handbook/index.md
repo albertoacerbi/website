@@ -25,8 +25,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural attraction
-- digital media
+- digital media and cultural evolution
+- cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: "Digital Culture"
 url_code: ""
@@ -38,3 +40,8 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1093/oxfordhb/9780198869252.013.41
+" data-hide-no-mentions="true" class="altmetric-embed"></div>

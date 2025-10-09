@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link 
   url: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6691663
 # - name: OSF repository
 #  url: http://osf.io/fjkze/
@@ -28,7 +28,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural analytics
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+- Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: "Robustness of emotion extraction from 20th century English books"
 url_code: ""

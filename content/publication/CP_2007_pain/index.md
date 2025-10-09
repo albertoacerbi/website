@@ -26,6 +26,11 @@ publishDate: "2007-09-14T00:00:00Z"
 slides: ""
 summary: ""
 
+tags:
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: "The evolution of pain"
 

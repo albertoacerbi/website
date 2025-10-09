@@ -28,6 +28,11 @@ publishDate: "2012-09-12T00:00:00Z"
 slides: ""
 summary: ""
 
+tags:
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: "Emergence of Leadership in a Group of Autonomous Robots"
 url_code: ""

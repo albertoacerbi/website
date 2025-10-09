@@ -29,8 +29,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural analytics
-- digital media
+- digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+- Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: "Cultural Accumulation and Improvement in Online Fan Fiction"
 url_code: ""
