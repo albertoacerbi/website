@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: https://www.jstor.org/stable/10.1086/651259
 #- name: OSF repository
 #  url: http://osf.io/fjkze/
@@ -27,8 +27,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- individual based models
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: "The Sometimes Evitable Route to Conservatism and Persuasiveness. A Reply to Xue and Costopoulos"
 url_code: ""

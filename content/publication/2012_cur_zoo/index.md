@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link 
   url: https://academic.oup.com/cz/article/58/2/307/1804724
 # - name: OSF repository
 #  url: http://osf.io/fjkze/
@@ -26,9 +26,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- cultural attraction
-- individual based models
+# - digital media and cultural evolution
+- cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: "Behavioral constraints and the evolution of faithful social learning"
 url_code: ""
@@ -40,3 +41,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1093/czoolo/58.2.307" data-hide-no-mentions="true" class="altmetric-embed"></div>

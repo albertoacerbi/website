@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: https://bmcecol.biomedcentral.com/articles/10.1186/1472-6785-8-10
 # - name: OSF repository
 #  url: http://osf.io/fjkze/
@@ -26,8 +26,10 @@ slides: ""
 summary: ""
 
 tags:
-- sleep
-- individual based models
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: "To sleep or not to sleep: the ecology of sleep in artificial organisms"
 url_code: ""

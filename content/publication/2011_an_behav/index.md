@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: https://www.sciencedirect.com/science/article/pii/S0003347211000182
 # - name: OSF repository
 #  url: http://osf.io/fjkze/
@@ -25,8 +25,10 @@ slides: ""
 summary: ""
 
 tags:
-- sleep
-- individual based models
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: "Predation and the phasing of sleep: an evolutionary individual-based model"
 url_code: ""
@@ -38,3 +40,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1016/j.anbehav.2011.01.015" data-hide-no-mentions="true" class="altmetric-embed"></div>

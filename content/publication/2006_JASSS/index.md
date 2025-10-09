@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: http://jasss.soc.surrey.ac.uk/9/1/9.html
 # - name: OSF repository
 #  url: http://osf.io/fjkze/
@@ -26,8 +26,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- ALife/robotics
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: "Cultural transmission between and within generations"
 url_code: ""

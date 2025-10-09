@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: https://link.springer.com/article/10.3758%2Fs13420-010-0009-z#page-1
 # - name: OSF repository
 #  url: http://osf.io/fjkze/
@@ -26,8 +26,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- individual based models
+# - digital media and cultural evolution
+- cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: "Modeling imitation and emulation in constrained search spaces"
 url_code: ""
@@ -39,3 +41,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.3758/s13420-010-0009-z" data-hide-no-mentions="true" class="altmetric-embed"></div>

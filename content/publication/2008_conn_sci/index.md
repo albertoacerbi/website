@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link 
   url: https://www.tandfonline.com/doi/full/10.1080/09540090802091867
 #- name: OSF repository
 #  url: http://osf.io/fjkze/
@@ -26,8 +26,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- ALife/robotics
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: "Social learning in embodied agents"
 url_code: ""

@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: http://www.pnas.org/content/106/45/18931.abstract
 # - name: OSF repository
 #  url: http://osf.io/fjkze/
@@ -27,8 +27,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- individual based models
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: "Cultural evolution and individual development of openness and conservatism"
 url_code: ""
@@ -40,3 +42,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="110.1073/pnas.0908889106" data-hide-no-mentions="true" class="altmetric-embed"></div>
