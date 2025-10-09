@@ -36,6 +36,9 @@ sections:
       title: 'News'
       subtitle: ''
       text: |-
+
+      <p style="font-size:17px"><b>8 October 2025:</b> Invited seminar (online) at the LMS (Language, Mind, Society Center) of University of Hradec Králové.</p>
+
         <p style="font-size:17px"><b>2 October 2025:</b> New preprint with William Costello: <a href="https://osf.io/preprints/psyarxiv/b7cmv_v1">Why Incels Capture Attention: A Cultural Attraction Theory Perspective</a>.</p>
 
         <p style="font-size:17px"><b>2 October 2025:</b> The website for the Leverhulme project <a href="https://weaponisedpasts.org/">Weaponised Pasts</a> is live.</p>
