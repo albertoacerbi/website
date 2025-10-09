@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: https://brill.com/view/journals/jocc/18/3-4/article-p293_4.xml?lang=en
 #- name: OSF repository
 #  url: http://osf.io/fjkze/

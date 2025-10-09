@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: https://www.tandfonline.com/doi/full/10.1080/02699931.2016.1260528
 - name: OSF repository
   url: http://osf.io/qz89v/
@@ -25,11 +25,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- evolutionary psychology
-- text mining
-- fiction
-- emotions
+# - digital media and cultural evolution
+- cultural evolution and cultural attraction 
+- Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: "Birth of the cool: a two-centuries decline in emotional expression in Anglophone fiction"
 url_code: ""
@@ -41,3 +40,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1080/02699931.2016.1260528" data-hide-no-mentions="true" class="altmetric-embed"></div>

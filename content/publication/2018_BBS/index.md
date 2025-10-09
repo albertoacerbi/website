@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/folkeconomic-beliefs-as-evidential-fiction-putting-the-economic-public-discourse-back-on-track/B72EBCDF4C603395C9175E5265FF7E8C
 #- name: OSF repository
 #  url: http://osf.io/fjkze/

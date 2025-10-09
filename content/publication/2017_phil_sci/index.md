@@ -10,7 +10,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: https://www.journals.uchicago.edu/doi/abs/10.1086/688940
 #- name: OSF repository
 #  url: http://osf.io/fjkze/
@@ -24,7 +24,7 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
+- cultural evolution and cultural attraction
 
 title: "Review of Tim Lewens, Cultural Evolution: Conceptual Challenges"
 url_code: ""

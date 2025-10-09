@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: https://www.nature.com/articles/s41598-018-30382-0
 #- name: OSF repository
 #  url: http://osf.io/fjkze/

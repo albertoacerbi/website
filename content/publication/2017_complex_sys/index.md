@@ -1,5 +1,5 @@
 ---
-abstract: Here, we test Neutral models against the evolution of English word frequency and vocabulary at the corpus scale, as recorded in annual word frequencies from three centuries of English lan- guage books. Against these data, we test both static and dynamic predictions of two neutral models, including the relation between corpus size and vocabulary size, frequency distributions, and turnover within those frequency distributions. Although a commonly used Neutral model fails to replicate all these emergent properties at once, we  ̄nd that modi ̄ed two-stage Neutral model does replicate the static and dynamic properties of the corpus data. This two-stage model is meant to represent a relatively small corpus of English books, analogous to a `canon', sampled by an exponentially increasing corpus of books among the wider population of authors. More broadly, this model - a smaller neutral model within a larger neutral model - could represent more broadly those situations where mass attention is focused on a small subset of the cultural variants.
+abstract: Here, we test Neutral models against the evolution of English word frequency and vocabulary at the corpus scale, as recorded in annual word frequencies from three centuries of English lan- guage books. Against these data, we test both static and dynamic predictions of two neutral models, including the relation between corpus size and vocabulary size, frequency distributions, and turnover within those frequency distributions. Although a commonly used Neutral model fails to replicate all these emergent properties at once, we  find that a modi fied two-stage Neutral model does replicate the static and dynamic properties of the corpus data. This two-stage model is meant to represent a relatively small corpus of English books, analogous to a `canon', sampled by an exponentially increasing corpus of books among the wider population of authors. More broadly, this model - a smaller neutral model within a larger neutral model - could represent more broadly those situations where mass attention is focused on a small subset of the cultural variants.
 authors:
 - Damian Ruck
 - R. Alexander Bentley
@@ -14,7 +14,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: http://www.worldscientific.com/doi/abs/10.1142/S0219525917500126
 - name: GitHub repository
   url: https://github.com/dr2g08/Neutral-evolution-and-turnover-over-centuries-of-English-word-popularity
@@ -28,10 +28,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- individual based models
-- text mining
-- fiction
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+- Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: "Role of Neutral evolution in word turnover during centuries of English word popularity"
 url_code: ""
@@ -43,3 +43,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1142/S0219525917500126" data-hide-no-mentions="true" class="altmetric-embed"></div>
