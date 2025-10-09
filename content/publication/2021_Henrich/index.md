@@ -24,7 +24,7 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
+- cultural evolution and cultural attraction
 
 title: "Review of Joseph Henrich, The Weirdest People in the World"
 url_code: ""

@@ -34,7 +34,7 @@ slides: ""
 summary: ""
 
 tags:
-- cultural attraction
+- cultural evolution and cultural attraction 
 
 title: Beyond social learning
 url_code: ""
@@ -46,6 +46,12 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1098/rstb.2020.0050" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 
 
 

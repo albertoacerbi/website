@@ -24,8 +24,8 @@ slides: ""
 summary: ""
 
 tags:
-- cultural attraction
-- digital media
+- digital media and cultural evolution
+- cultural attraction and cultural evolution 
 
 title: From storytelling to Facebook. Content biases when retelling or sharing a story
 url_code: https://osf.io/5yh4u/
@@ -38,3 +38,7 @@ url_source: ""
 url_video: ""
 ---
 
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1007/s12110-022-09423-1" data-hide-no-mentions="true" class="altmetric-embed"></div>

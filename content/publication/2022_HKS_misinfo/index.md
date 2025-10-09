@@ -25,8 +25,8 @@ slides: ""
 summary: ""
 
 tags:
-- digital media
-- individual based models
+- digital media and cultural evolution
+- individual-based models of cultural evolution
 
 title: "Research note: Fighting misinformation or fighting for information?"
 url_code: ""
@@ -39,3 +39,7 @@ url_source: ""
 url_video: ""
 ---
 
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.37016/mr-2020-87" data-hide-no-mentions="true" class="altmetric-embed"></div>

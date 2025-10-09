@@ -23,7 +23,8 @@ slides: ""
 summary: ""
 
 tags:
-- cultural analytics
+- Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: The self-control vs. self-indulgence dilemma. A culturomic analysis of 20th century trends
 url_code: ""
