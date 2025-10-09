@@ -24,7 +24,7 @@ summary: ""
 
 tags:
 - digital media and cultural evolution
-- cultural attraction and cultural evolution 
+- cultural evolution and cultural attraction 
 - Quantitative analysis of large scale cultural data
 # - individual-based models of cultural evolution
 

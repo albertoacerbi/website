@@ -1,5 +1,5 @@
 ---
-abstract: We experimentally investigated the influence of context-based biases, such as prestige and popularity, on the preferences for quotations. Participants were presented with random quotes associated to famous or unknown authors (experiment one), or with random quotes presented as popular, i.e. chosen by many previous participants, or un- popular (experiment two). To exclude effects related to the content of the quotations, all participants were subsequently presented with the same quotations, again associ- ated to famous and unknown authors (experiment three), or presented as popular or unpopular (experiment four). Overall, our results showed that context-based biases had no (in case of prestige and conformity), or limited (in case of popularity), effect in determining participants’ choices. Quotations preferred for their content were pre- ferred in general, despite the contextual cues to which they were associated. We con- clude discussing how our results fit with the well-known phenomenon of the spread and success (especially digital) of misattributed quotations, and we draw some more general implications for cultural evolution research.
+abstract: We experimentally investigated the influence of context-based biases, such as prestige and popularity, on the preferences for quotations. Participants were presented with random quotes associated to famous or unknown authors (experiment one), or with random quotes presented as popular, i.e. chosen by many previous participants, or un- popular (experiment two). To exclude effects related to the content of the quotations, all participants were subsequently presented with the same quotations, again associ- ated to famous and unknown authors (experiment three), or presented as popular or unpopular (experiment four). Overall, our results showed that context-based biases had no (in case of prestige and conformity), or limited (in case of popularity), effect in determining participants’ choices. Quotations preferred for their content were preferred in general, despite the contextual cues to which they were associated. We con- clude discussing how our results fit with the well-known phenomenon of the spread and success (especially digital) of misattributed quotations, and we draw some more general implications for cultural evolution research.
 authors:
 - admin
 - Jamshid J. Tehrani
@@ -25,9 +25,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- experiment
-- transmission biases
+# - digital media and cultural evolution
+- cultural evolution and cultural attraction
+# - Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: Did Einstein really say that? Testing content versus context in the cultural selection of quotations
 url_code: ""
@@ -39,3 +40,9 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1163/15685373-12340032" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+

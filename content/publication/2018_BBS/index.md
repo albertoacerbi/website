@@ -25,9 +25,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- evolutionary psychology
-- transmission biases
+# - digital media and cultural evolution
+- cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: "Folk-economic beliefs as “evidential fiction”: Putting the economic public discourse back on track"
 url_code: ""

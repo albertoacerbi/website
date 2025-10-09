@@ -27,9 +27,7 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- individual based models
-- transmission biases
+- individual-based models of cultural evolution
 
 title: "Reply to ‘Sigmoidal Acquisition Curves are Good Indicators of Conformist Transmission’"
 url_code: ""
@@ -41,3 +39,8 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1038/s41598-018-30248-5" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
