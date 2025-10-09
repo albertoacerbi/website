@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: https://royalsocietypublishing.org/doi/full/10.1098/rsos.160215
 #- name: OSF repository
 #  url: http://osf.io/fjkze/
@@ -25,8 +25,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- experiment
+# - digital media and cultural evolution
+- cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: "Social learning solves the problem of narrow-peaked search landscapes: experimental evidence in humans"
 url_code: ""
@@ -38,3 +40,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1098/rsos.160215" data-hide-no-mentions="true" class="altmetric-embed"></div>

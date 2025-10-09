@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137234
 # - name: OSF repository
 #  url: http://osf.io/fjkze/
@@ -26,7 +26,10 @@ slides: ""
 summary: ""
 
 tags:
-- ALife/robotics
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: Emergence of Leadership in a Group of Autonomous Robots
 url_code: ""

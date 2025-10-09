@@ -13,8 +13,8 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
-  url: https://www.nature.com/articles/s41598-018-30382-0
+- name: Link
+  url: https://www.nature.com/articles/srep36068
 #- name: OSF repository
 #  url: http://osf.io/fjkze/
 
@@ -27,9 +27,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- individual based models
-- transmission biases
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: "Conformity cannot be identified based on population-level signatures"
 url_code: ""
@@ -41,3 +42,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1038/srep36068" data-hide-no-mentions="true" class="altmetric-embed"></div>
