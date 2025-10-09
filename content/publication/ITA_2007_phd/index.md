@@ -25,7 +25,10 @@ slides: ""
 summary: ""
 
 tags:
-- in Italian
+# - digital media and cultural evolution
+- cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: "La natura della cultura. Modelli simulativi dell'apprendimento sociale"
 url_code: ""

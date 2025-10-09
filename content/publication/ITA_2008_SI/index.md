@@ -27,7 +27,10 @@ slides: ""
 summary: ""
 
 tags:
-- in Italian
+# - digital media and cultural evolution
+# - cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+- individual-based models of cultural evolution
 
 title: "Trasmissione sociale di comportamenti in una popolazione di robot autonomi"
 url_code: ""

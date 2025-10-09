@@ -26,8 +26,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural attraction
-- in Italian
+# - digital media and cultural evolution
+- cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: "Esiste una folkanthropology? E, se esiste, a chi interessa?"
 url_code: ""

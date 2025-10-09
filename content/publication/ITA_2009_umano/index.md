@@ -28,8 +28,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- in Italian
+# - digital media and cultural evolution
+- cultural evolution and cultural attraction 
+# - Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: "Umano troppo umano. Riflessioni sull’opposizione natura/cultura in antropologia"
 url_code: ""
