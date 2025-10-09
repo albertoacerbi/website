@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: data
+- name: American Kennel Club data
   url: https://figshare.com/articles/American_Kennel_Club_Breed_Popularity_Statistics/715895
 - name: Link
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106565
