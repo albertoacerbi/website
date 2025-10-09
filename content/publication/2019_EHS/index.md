@@ -27,10 +27,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- text mining
-- emotions
-- transmission biases
+# - digital media and cultural evolution
+- cultural attraction and cultural evolution 
+- Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 
 title: Cultural evolution of emotional expression in 50 years of song lyrics
@@ -43,3 +43,8 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1017/ehs.2019.11" data-hide-no-mentions="true" class="altmetric-embed"></div>
+

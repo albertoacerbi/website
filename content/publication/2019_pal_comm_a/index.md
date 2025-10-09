@@ -10,7 +10,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: https://www.nature.com/articles/s41599-019-0224-y
 - name: OSF repository
   url: https://osf.io/78vhn/
@@ -23,10 +23,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- cultural attraction
-- misinformation 
-- digital media
+- digital media and cultural evolution
+- cultural attraction and cultural evolution 
+- Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: Cognitive attraction and online misinformation
 url_code: ""
@@ -38,3 +38,8 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1057/s41599-019-0224-y" data-hide-no-mentions="true" class="altmetric-embed"></div>
+

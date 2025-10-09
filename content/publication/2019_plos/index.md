@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Link to published version
+- name: Link
   url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210748
 #- name: OSF repository
 #  url: http://osf.io/fjkze/
@@ -26,9 +26,7 @@ slides: ""
 summary: ""
 
 tags:
-- cultural evolution
-- transmission biases
-- individual based models
+- individual-based models of cultural evolution
 
 title: Copy-the-majority of instances or individuals? Two approaches to the majority and their consequences for conformist decision-making
 url_code: ""
@@ -40,3 +38,8 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1371/journal.pone.02107480" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
