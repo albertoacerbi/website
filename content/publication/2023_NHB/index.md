@@ -38,7 +38,10 @@ slides: ""
 summary: ""
 
 tags:
-- digital media
+- digital media and cultural evolution
+#- cultural attraction and cultural evolution 
+#- Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: "Machine Culture"
 url_code: ""
@@ -51,3 +54,7 @@ url_source: ""
 url_video: ""
 ---
 
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1038/s41562-023-01742-2" data-hide-no-mentions="true" class="altmetric-embed"></div>

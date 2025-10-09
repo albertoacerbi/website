@@ -25,7 +25,10 @@ slides: ""
 summary: ""
 
 tags:
-- cultural analytics
+# - digital media and cultural evolution
+# - cultural attraction and cultural evolution 
+- Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: "Self-Interest, prosociality, and the moral cognition of markets: A comparative analysis of the Theory of Moral Sentiments and the Wealth of Nations"
 url_code: ""

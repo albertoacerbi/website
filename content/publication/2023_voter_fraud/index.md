@@ -29,8 +29,10 @@ slides: ""
 summary: ""
 
 tags:
-- digital media
-- cultural attraction
+- digital media and cultural evolution
+- cultural attraction and cultural evolution 
+- Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: "Negativity bias in the spread of voter fraud conspiracy theory tweets during the 2020 US election"
 url_code: "https://github.com/masonyoungblood/TwitterABM"
@@ -43,3 +45,7 @@ url_source: ""
 url_video: ""
 ---
 
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1057/s41599-023-02106-x" data-hide-no-mentions="true" class="altmetric-embed"></div>

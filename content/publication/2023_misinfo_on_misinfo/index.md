@@ -37,6 +37,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
-<div class="altmetric-embed" data-badge-type="donut" 
-data-link-target = "_blank" data-doi="10.1177/20563051221150412"></div>
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1177/20563051221150412" data-hide-no-mentions="true" class="altmetric-embed"></div>

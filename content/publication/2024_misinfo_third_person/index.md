@@ -39,8 +39,6 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
-<script id="altmetric-embed-js" type="text/javascript"
-src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <script id="altmetric-embed-js" type="text/javascript"
 src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>

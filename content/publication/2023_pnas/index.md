@@ -27,7 +27,10 @@ slides: ""
 summary: ""
 
 tags:
-- digital media
+- digital media and cultural evolution
+# - cultural attraction and cultural evolution 
+# - Quantitative analysis of large scale cultural data
+# - individual-based models of cultural evolution
 
 title: "Large language models show human-like content biases in transmission chain experiments"
 url_code: "https://osf.io/6v2ps/"
@@ -39,3 +42,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1073/pnas.2313790120" data-hide-no-mentions="true" class="altmetric-embed"></div>
