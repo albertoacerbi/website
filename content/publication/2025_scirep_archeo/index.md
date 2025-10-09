@@ -27,8 +27,9 @@ slides: ""
 summary: ""
 
 tags:
-- digital media
-- cultural attraction
+- Digital media and cultural evolution
+- cultural evolution and cultural attraction
+- Quantitative analysis of large scale cultural data
 
 title: "Positive sentiment and expertise predict the diffusion of archaeological content on social media"
 url_code: "https://github.com/mkrzyzanska/TwitterArchaeology"
@@ -41,4 +42,7 @@ url_source: ""
 url_video: ""
 ---
 
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1038/s41598-025-85167-z" data-hide-no-mentions="true" class="altmetric-embed"></div>

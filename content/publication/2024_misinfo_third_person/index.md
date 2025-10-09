@@ -27,7 +27,7 @@ slides: ""
 summary: ""
 
 tags:
-- digital media
+- digital media and cultural evolution
 
 title: "People believe misinformation is a threat because they assume others are gullible"
 url_code: ""
@@ -39,3 +39,10 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<script id="altmetric-embed-js" type="text/javascript"
+src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="donut" data-doi="10.1177/14614448231153379" data-hide-no-mentions="true" class="altmetric-embed"></div>
