@@ -37,8 +37,6 @@ sections:
       subtitle: ''
       text: |-
 
-            <p style="font-size:17px"><b>15 October 2025:</b> Invited seminar at the University of Padova <a href="https://www.dpss.unipd.it/methods-and-misconceptions-refining-methods-and-narratives-behavioral-sciences">Methods and Misconceptions: Refining Methods and Narratives in the Behavioral Sciences</a>.</p>
-
        <p style="font-size:17px"><b>8 October 2025:</b> Invited seminar (online) at the LMS (Language, Mind, Society Center) of University of Hradec Kralove, Czech Republic.</p>
 
         <p style="font-size:17px"><b>2 October 2025:</b> New preprint with William Costello: <a href="https://osf.io/preprints/psyarxiv/b7cmv_v1">Why Incels Capture Attention: A Cultural Attraction Theory Perspective</a>.</p>
