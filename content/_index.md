@@ -50,9 +50,9 @@ sections:
         <p style="font-size:17px"><b>30 September 2025:</b> New preprint with Eliana Fattorini, Massimiano Bucchi, and Enzo Loner: <a href="https://osf.io/preprints/socarxiv/bevts_v1">Weapon and Poison: Framing Disinformation in European Commission Speeches, 2016–2024</a>.</p>
     design:
       columns: '1'
- - block: markdown
-   id: people
-   content:
+- block: markdown
+  id: people
+  content:
      title: 'People'
      subtitle: ''
      text: |-
