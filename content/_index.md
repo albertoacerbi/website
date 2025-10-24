@@ -52,9 +52,9 @@ sections:
       columns: '1'
 
   - block: markdown
-    id: news
+    id: people
     content:
-      title: 'News'
+      title: 'People'
       subtitle: ''
       text: |-
 
