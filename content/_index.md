@@ -50,22 +50,7 @@ sections:
         <p style="font-size:17px"><b>30 September 2025:</b> New preprint with Eliana Fattorini, Massimiano Bucchi, and Enzo Loner: <a href="https://osf.io/preprints/socarxiv/bevts_v1">Weapon and Poison: Framing Disinformation in European Commission Speeches, 2016–2024</a>.</p>
     design:
       columns: '1'
-   - block: markdown
-    id: people
-    content:
-      title: 'People'
-      subtitle: ''
-      text: |-
-     
-        <p style="font-size:17px"><a href="https://scholar.google.com/citations?user=8Oilc6YAAAAJ&hl=en">Kyle Fischer</a>, postdoc in the John Templeton Foundation funded project Changing the perspective on social media interventions: improving engagement with true news, 2023 - current.</p>
 
-        <p style="font-size:17px"><a href="https://scholar.google.com/citations?user=og9oG7kAAAAJ&hl=en">John-Paul Martindale</a>, postdoc in the Leverhulme Trust funded project Weaponised Pasts, 2025 - current (co-supervised with Chiara Bonacchi and Zachary Horne).</p>
-
-     <p style="font-size:17px"><a href="https://webapps.unitn.it/du/it/Persona/PER0280444">Pablo Ignacio Schiappacasse Valenzuela</a>, PhD Student at University of Trento, 2024 - current (co-supervised with Mario Quaranta).</p>
-
-    design:
-      columns: '1'
-      
   - block: collection
     id: research
     content:
