@@ -56,7 +56,7 @@ sections:
    content:
      title: 'People'
      subtitle: ''
-     text: 
+     text: |-
      
         <p style="font-size:17px"><a href="https://scholar.google.com/citations?user=8Oilc6YAAAAJ&hl=en">Kyle Fischer</a>, postdoc in the John Templeton Foundation funded project Changing the perspective on social media interventions: improving engagement with true news, 2023 - current.</p>
 
@@ -64,9 +64,7 @@ sections:
 
         <p style="font-size:17px"><a href="https://webapps.unitn.it/du/it/Persona/PER0280444">Pablo Ignacio Schiappacasse Valenzuela</a>, PhD Student at University of Trento, 2024 - current (co-supervised with Mario Quaranta).</p>
     design:
-
       columns: '1'
-      
 
   - block: collection
     id: research
