@@ -58,7 +58,7 @@ sections:
       subtitle: ''
       text: |-
 
-        <p style="font-size:17px"><a href="https://scholar.google.com/citations?user=8Oilc6YAAAAJ&hl=en">Kyle Fischer</a>, postdoc in the John Templeton Foundation funded project Changing the perspective on social media interventions: improving engagement with true news, 2023 - current.</p>
+        <p style="font-size:17px"><a href="https://scholar.google.com/citations?user=8Oilc6YAAAAJ&hl=en">Kyle Fischer</a>, postdoc in the John Templeton Foundation funded project "Changing the perspective on social media interventions: improving engagement with true news", 2023 - current.</p>
 
     design:
       columns: '1'
