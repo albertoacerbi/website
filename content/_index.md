@@ -58,17 +58,8 @@ sections:
       subtitle: ''
       text: |-
 
-        <p style="font-size:17px"><b>15 October 2025:</b> Invited seminar at the University of Padova: <a href="https://www.dpss.unipd.it/methods-and-misconceptions-refining-methods-and-narratives-behavioral-sciences">Methods and Misconceptions: Refining Methods and Narratives in the Behavioral Sciences</a>.</p>
+        <p style="font-size:17px"><a href="https://scholar.google.com/citations?user=8Oilc6YAAAAJ&hl=en">Kyle Fischer</a>, postdoc in the John Templeton Foundation funded project Changing the perspective on social media interventions: improving engagement with true news, 2023 - current.</p>
 
-        <p style="font-size:17px"><b>8 October 2025:</b> Invited seminar (online) at the LMS (Language, Mind, Society Center) of University of Hradec Kralove, Czech Republic.</p>
-
-        <p style="font-size:17px"><b>2 October 2025:</b> New preprint with William Costello: <a href="https://osf.io/preprints/psyarxiv/b7cmv_v1">Why Incels Capture Attention: A Cultural Attraction Theory Perspective</a>.</p>
-
-        <p style="font-size:17px"><b>2 October 2025:</b> The website for the Leverhulme project <a href="https://weaponisedpasts.org/">Weaponised Pasts</a> is live.</p>
-
-        <p style="font-size:17px"><b>1 October 2025:</b> The Associazione Italiana Biblioteche had a reading group about Tecnopanico. <a href="https://www.youtube.com/watch?v=F4a27Ldm1WI">Here a video</a> where I answer to their questions.</p>
-
-        <p style="font-size:17px"><b>30 September 2025:</b> New preprint with Eliana Fattorini, Massimiano Bucchi, and Enzo Loner: <a href="https://osf.io/preprints/socarxiv/bevts_v1">Weapon and Poison: Framing Disinformation in European Commission Speeches, 2016–2024</a>.</p>
     design:
       columns: '1'
 
