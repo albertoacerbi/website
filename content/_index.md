@@ -59,7 +59,6 @@ sections:
      
     design:
       columns: '1'
-
   - block: collection
     id: research
     content:
