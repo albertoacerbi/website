@@ -37,6 +37,8 @@ sections:
       subtitle: ''
       text: |-
 
+        <p style="font-size:17px"><b>18 November 2025:</b> A seminar on Tecnopanico in the series <a href="https://ststn.soc.unitn.it/2025/09/02/seminario-2025-emozioni-scienza-e-tecnologia/">Emozioni, Scienza e Tecnologia</a> in the Department of Sociology and Social Research at the University of Trento.</p>
+
         <p style="font-size:17px"><b>15 October 2025:</b> Invited seminar at the University of Padova: <a href="https://www.dpss.unipd.it/methods-and-misconceptions-refining-methods-and-narratives-behavioral-sciences">Methods and Misconceptions: Refining Methods and Narratives in the Behavioral Sciences</a>.</p>
 
         <p style="font-size:17px"><b>8 October 2025:</b> Invited seminar (online) at the LMS (Language, Mind, Society Center) of University of Hradec Kralove, Czech Republic.</p>
