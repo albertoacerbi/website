@@ -37,7 +37,7 @@ sections:
       subtitle: ''
       text: |-
 
-        <p style="font-size:17px"><b>16 December 2025:</b> New preprint: <a href="https://osf.io/preprints/socarxiv/mu84x_v1">The Cultural Ecology of Social Media4</a>.</p>
+        <p style="font-size:17px"><b>16 December 2025:</b> New preprint: <a href="https://osf.io/preprints/socarxiv/mu84x_v1">The Cultural Ecology of Social Media</a>.</p>
     
         <p style="font-size:17px"><b>18 November 2025:</b> A seminar on Tecnopanico in the series <a href="https://ststn.soc.unitn.it/2025/09/02/seminario-2025-emozioni-scienza-e-tecnologia/">Emozioni, Scienza e Tecnologia</a> in the Department of Sociology and Social Research at the University of Trento.</p>
 
