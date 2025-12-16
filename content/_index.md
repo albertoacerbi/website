@@ -37,6 +37,8 @@ sections:
       subtitle: ''
       text: |-
 
+        <p style="font-size:17px"><b>16 December 2025:</b> New preprint: <a href="https://osf.io/preprints/socarxiv/mu84x_v1">The Cultural Ecology of Social Media4</a>.</p>
+    
         <p style="font-size:17px"><b>18 November 2025:</b> A seminar on Tecnopanico in the series <a href="https://ststn.soc.unitn.it/2025/09/02/seminario-2025-emozioni-scienza-e-tecnologia/">Emozioni, Scienza e Tecnologia</a> in the Department of Sociology and Social Research at the University of Trento.</p>
 
         <p style="font-size:17px"><b>15 October 2025:</b> Invited seminar at the University of Padova: <a href="https://www.dpss.unipd.it/methods-and-misconceptions-refining-methods-and-narratives-behavioral-sciences">Methods and Misconceptions: Refining Methods and Narratives in the Behavioral Sciences</a>.</p>
@@ -49,7 +51,6 @@ sections:
 
         <p style="font-size:17px"><b>1 October 2025:</b> The Associazione Italiana Biblioteche had a reading group about Tecnopanico. <a href="https://www.youtube.com/watch?v=F4a27Ldm1WI">Here a video</a> where I answer to their questions.</p>
 
-        <p style="font-size:17px"><b>30 September 2025:</b> New preprint with Eliana Fattorini, Massimiano Bucchi, and Enzo Loner: <a href="https://osf.io/preprints/socarxiv/bevts_v1">Weapon and Poison: Framing Disinformation in European Commission Speeches, 2016–2024</a>.</p>
     design:
       columns: '1'
 
