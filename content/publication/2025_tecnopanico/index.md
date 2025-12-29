@@ -63,6 +63,11 @@ src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 {{< youtube vp8mX4jMwLo >}}
 
+<p style="font-size:17px">Seminar <em>Emozioni, Scienza e Tecnologia</em>:</p>
+
+{{< youtube P2jydNO508Q >}}
+
+
 ---
 
 <h4>Reviews in general press:</h4>
