@@ -90,6 +90,12 @@ src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
  ---
 
+ <h4>Academic reviews:</h4>
+
+ <p style="font-size:17px">Andrea Rubin. <a href="https://cyonline.unife.it/article/view/3097">ALBERTO ACERBI, Tecnopanico. Media digitali, tra ragionevoli cautele e paure ingiustificate</a>, I Castelli di Yale, XIII, 2 (2025).</p>
+
+ ---
+
 <h4>Radio:</h4>
 
  <p style="font-size:17px">L'effetto culturale dei media sulla società: al telefono Alberto Acerbi. <a href="https://www.deejay.it/programmi/il-boss-del-weekend/highlights/leffetto-culturale-dei-media-sulla-societa-al-telefono-alberto-acerbi/">Radio DeeJay - Il boss del weekend</a>.</p>
