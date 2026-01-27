@@ -67,6 +67,10 @@ src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 {{< youtube P2jydNO508Q >}}
 
+<p style="font-size:17px">Podcast <em>The Dissenter</em>:</p>
+
+{{< youtube D6NLQjxIjps >}}
+
 
 ---
 
