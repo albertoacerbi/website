@@ -37,9 +37,9 @@ sections:
       subtitle: ''
       text: |-
 
-        <p style="font-size:17px"><b>20 February 2026:</b> I will give a talk in the <a href="https://www.learningmorefestival.it">Learning More Festival 2026</a> in Modena: <i>Oltre i falsi allarmismi sul digitale: valutare le paure ingiustificate, verso un uso consapevole</i>.</p>
+        <p style="font-size:17px"><b>20 February 2026:</b> Talk in the <a href="https://www.learningmorefestival.it">Learning More Festival 2026</a> in Modena: <i>Oltre i falsi allarmismi sul digitale: valutare le paure ingiustificate, verso un uso consapevole</i>.</p>
 
-        <p style="font-size:17px"><b>27 January 2026:</b> I was at the podcast <a href="https://www.youtube.com/watch?v=D6NLQjxIjps">The Dissenter</a> talking about <i>Digital Media, Between Reasonable Caution and Unjustified Fears</i>.</p>
+        <p style="font-size:17px"><b>27 January 2026:</b> Video of the podcast <a href="https://www.youtube.com/watch?v=D6NLQjxIjps">The Dissenter</a> talking about <i>Digital Media, Between Reasonable Caution and Unjustified Fears</i>.</p>
     
         <p style="font-size:17px"><b>16 December 2025:</b> New preprint: <a href="https://osf.io/preprints/socarxiv/mu84x_v1">The Cultural Ecology of Social Media</a>.</p>    
     
