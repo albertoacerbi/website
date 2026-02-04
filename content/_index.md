@@ -39,11 +39,11 @@ sections:
 
         <p style="font-size:17px"><b>20 February 2026:</b> Talk in the <a href="https://www.learningmorefestival.it">Learning More Festival 2026</a> in Modena: <i>Oltre i falsi allarmismi sul digitale: valutare le paure ingiustificate, verso un uso consapevole</i>.</p>
 
+        <p style="font-size:17px"><b>4 February 2026:</b> New paper out in <i>Evolutionary Psychological Science</i>: <a href=https://link.springer.com/article/10.1007/s40806-026-00466-6">Why Incels Capture Attention: A Cultural Attraction Theory Perspective</a>.</p> 
+
         <p style="font-size:17px"><b>28 January 2026:</b> I have been interviewed by the italian newspaper <a href="https://media.licdn.com/dms/image/v2/D4D22AQHUHCjQki3MJA/feedshare-shrink_1280/B4DZwDr4dfJcAc-/0/1769588361377?e=1771459200&v=beta&t=pS8CX_9oJsznaqzhcjTxufRTkFM8lib418uOGGZORm0">Il T Quotidiano</a> on dating apps.</p>
 
-        <p style="font-size:17px"><b>27 January 2026:</b> Video of the podcast <a href="https://www.youtube.com/watch?v=D6NLQjxIjps">The Dissenter</a> talking about <i>Digital Media, Between Reasonable Caution and Unjustified Fears</i>.</p>
-    
-        <p style="font-size:17px"><b>16 December 2025:</b> New preprint: <a href="https://osf.io/preprints/socarxiv/mu84x_v1">The Cultural Ecology of Social Media</a>.</p>    
+        <p style="font-size:17px"><b>27 January 2026:</b> Video of the podcast <a href="https://www.youtube.com/watch?v=D6NLQjxIjps">The Dissenter</a> talking about <i>Digital Media, Between Reasonable Caution and Unjustified Fears</i>.</p>   
 
     design:
       columns: '1'
