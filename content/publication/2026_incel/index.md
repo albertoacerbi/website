@@ -18,7 +18,7 @@ links:
 
 
 
-publication: Costello, W, Acerbi, A. (2025), Why Incels Capture Attention: A Cultural Attraction Theory Perspective, *Evolutionary Psychological Science*, 21, 1
+publication: Costello, W., Acerbi, A. (2026), Why Incels Capture Attention: A Cultural Attraction Theory Perspective, *Evolutionary Psychological Science*, 21, 1
 publication_short: In *Evolutionary Psychological Science*, 21, 1
 publication_types: ["article-journal"]
 publishDate: "2026-02-05T00:00:00Z"
