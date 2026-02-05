@@ -28,9 +28,8 @@ summary: ""
 tags:
 - Digital media and cultural evolution
 - cultural evolution and cultural attraction
-- Quantitative analysis of large scale cultural data
 
-title: "Positive sentiment and expertise predict the diffusion of archaeological content on social media"
+title: "Why Incels Capture Attention. A Cultural Attraction Theory Perspective"
 url_code: "https://github.com/mkrzyzanska/TwitterArchaeology"
 url_dataset: ""
 url_pdf: files/2025_scirep_archeo.pdf
