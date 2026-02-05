@@ -18,7 +18,7 @@ links:
 
 
 
-publication: Bonacchi, C., Krzyzanska, M, Acerbi, A. (2025), Positive sentiment and expertise predict the diffusion of archaeological content on social media, *Scientific Reports*, 15, 2031
+publication: Costello, W., Acerbi, A. (2025), Positive sentiment and expertise predict the diffusion of archaeological content on social media, *Scientific Reports*, 15, 2031
 publication_short: In *Scientific Reports*, 15, 2031
 publication_types: ["article-journal"]
 publishDate: "2025-01-15T00:00:00Z"
