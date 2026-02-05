@@ -30,7 +30,7 @@ tags:
 - cultural evolution and cultural attraction
 
 title: "Why Incels Capture Attention: A Cultural Attraction Theory Perspective"
-url_code: "https://github.com/mkrzyzanska/TwitterArchaeology"
+url_code: ""
 url_dataset: ""
 url_pdf: files/2026_incel.pdf
 url_poster: ""
