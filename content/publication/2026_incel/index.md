@@ -14,7 +14,7 @@ image:
   preview_only: false
 links:
 - name: Link
-  url: https://www.nature.com/articles/s41598-025-85167-z
+  url: https://link.springer.com/article/10.1007/s40806-026-00466-6
 
 
 
