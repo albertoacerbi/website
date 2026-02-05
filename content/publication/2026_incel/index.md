@@ -2,8 +2,7 @@
 abstract: "This study investigates the dissemination of archaeological information on Twitter/X through the lens of cultural evolution. By analysing 132,230 tweets containing the hashtag #archaeology from 2021 to 2023, we examine how content and context-related factors influence retweeting behaviour. Our findings reveal that tweets with positive sentiment and non-threatening language are more likely to be shared, contrasting with the common negativity bias observed on social media. Additionally, content authored by experts, particularly those with archaeological or historical expertise, is more frequently retweeted than content from popular figures lacking domain-specific expertise. The study also challenges the notion that pseudoarchaeology spreads rapidly and caution against overestimating its impact. Our results align with other studies on the spread of misinformation and “toxic” behaviour on social media, showing that the sharing of negative and hostile content by a vocal minority of users is mediated by other factors pertaining to the context of the communication. These insights underscore the nuanced dynamics of archaeology communication, emphasizing the importance of expert-led and positively charged narratives in engaging the public on social media."
 
 authors:
-- Chiara Bonacchi
-- Marta Krzyzanska
+- William Costello
 - admin
 
 date: "2025-01-15T00:00:00Z"
