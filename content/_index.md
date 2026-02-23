@@ -37,6 +37,8 @@ sections:
       subtitle: ''
       text: |-
 
+        <p style="font-size:17px"><b>22 February 2026:</b> PsyPost on our recent paper on cultural attraction and attention to incels: <a href="https://www.psypost.org/the-psychology-behind-societys-fixation-on-incels/">The psychology behind society’s fixation on incels</a>.</p>
+
         <p style="font-size:17px"><b>20 February 2026:</b> Talk in the <a href="https://www.learningmorefestival.it">Learning More Festival 2026</a> in Modena: <i>Oltre i falsi allarmismi sul digitale: valutare le paure ingiustificate, verso un uso consapevole</i>.</p>
 
         <p style="font-size:17px"><b>16 February 2026:</b> I wrote an editorial for the University of Trento magazine: <a href="https://mag.unitn.it/editoriali/121676/quando-le-fiction-creano-allarme">Quando le fiction creano allarme - Perché gli incel catturano l’attenzione. Un esercizio di evoluzione culturale</a>.</p> 
