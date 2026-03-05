@@ -49,9 +49,9 @@ sections:
 
         <p style="font-size:17px"><b>10 February 2026:</b> A short <a href="https://www.rainews.it/tgr/trento/video/2026/02/giovani-e-social-media-acerbi-il-divieto-non-e-la-strada-migliore-62732111-7955-41ae-8804-145d200a1ff6.html?nxtep&fbclid=IwY2xjawP5GetleHRuA2FlbQIxMABzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEevZtC1CEsFWz85FYnBOd2Jj2qepuYPCqwv-enZGC5i2Cee7AfjQQTPpQVSwg_aem_eDBtEklUG0JAKmaPPJnvJQ">interview</a> on TGR Trentino about social media bans for young people.</p>   
 
-        <p style="font-size:17px"><b>4 February 2026:</b> New paper out in <i>Evolutionary Psychological Science</i>: <a href="https://link.springer.com/article/10.1007/s40806-026-00466-6">Why Incels Capture Attention: A Cultural Attraction Theory Perspective</a>.</p> 
+       <p style="font-size:17px"><b>4 February 2026:</b> New paper out in <i>Evolutionary Psychological Science</i>: <a href="https://link.springer.com/article/10.1007/s40806-026-00466-6">Why Incels Capture Attention: A Cultural Attraction Theory Perspective</a>.</p> 
 
-        <p style="font-size:17px"><b>28 January 2026:</b> I have been interviewed by the italian newspaper <a href="https://media.licdn.com/dms/image/v2/D4D22AQHUHCjQki3MJA/feedshare-shrink_1280/B4DZwDr4dfJcAc-/0/1769588361377?e=1771459200&v=beta&t=pS8CX_9oJsznaqzhcjTxufRTkFM8lib418uOGGZORm0">Il T Quotidiano</a> on dating apps.</p>
+<!--         <p style="font-size:17px"><b>28 January 2026:</b> I have been interviewed by the italian newspaper <a href="https://media.licdn.com/dms/image/v2/D4D22AQHUHCjQki3MJA/feedshare-shrink_1280/B4DZwDr4dfJcAc-/0/1769588361377?e=1771459200&v=beta&t=pS8CX_9oJsznaqzhcjTxufRTkFM8lib418uOGGZORm0">Il T Quotidiano</a> on dating apps.</p> -->
 
         <p style="font-size:17px"><b>27 January 2026:</b> Video of the podcast <a href="https://www.youtube.com/watch?v=D6NLQjxIjps">The Dissenter</a> talking about <i>Digital Media, Between Reasonable Caution and Unjustified Fears</i>.</p>   
 
