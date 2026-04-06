@@ -37,6 +37,8 @@ sections:
       subtitle: ''
       text: |-
 
+        <p style="font-size:17px"><b>9 April 2026:</b> Talk at the: <a href="https://www.model-transfer.uni-hannover.de/en/news-and-events/events/workshop-scientific-progress-via-model-transfer">Scientific Progress via Model Transfer? The Case of Cultural Evolution</a> workshop in Hannover: "The cultural ecology of social media". Slides <a href="https://osf.io/e8f3k/files/nhs7g">here>/a>.</p>
+    
         <p style="font-size:17px"><b>4 March 2026:</b> Le Point also comments on our paper on cultural attraction and incels (in French): <a href="https://www.lepoint.fr/debats/peggy-sastre-les-incels-ou-la-fabrique-dun-monstre-XCMEYRA3GVDGPAABYNW5C5VJXE/">Les incels, ou la fabrique d’un monstre</a>.</p>
 
         <p style="font-size:17px"><b>22 February 2026:</b> PsyPost on our recent paper on cultural attraction and attention to incels: <a href="https://www.psypost.org/the-psychology-behind-societys-fixation-on-incels/">The psychology behind society’s fixation on incels</a>.</p>
