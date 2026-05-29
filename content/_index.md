@@ -41,13 +41,11 @@ sections:
     
         <p style="font-size:17px"><b>4 June 2026:</b> Talk at the seminar series <a href="https://www.cnr.it/it/eventi/allegato/14772">Pensare nell'era del dato</a> at the Istituto per la Storia del Pensiero Filosofico e Scientifico Moderno, Napoli: "Disinformazione ed influenza sociale online".
 
-        <p style="font-size:17px"><b>25 May 2026:</b> New paper out: <a href="https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/cultural-ecology-of-social-media/78DEBBF3C9D5D0E181820B05CC7022A9">The Cultural Ecology of Social Media</a>.</p>
+        <p style="font-size:17px"><b>29 May 2026:</b> New paper out: <a href="https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/cultural-ecology-of-social-media/78DEBBF3C9D5D0E181820B05CC7022A9">The Cultural Ecology of Social Media</a>.</p>
 
         <p style="font-size:17px"><b>25 May 2026:</b> <a href="https://mybook.to/technopanic">Technopanic</a> release day!</p>
 
         <p style="font-size:17px"><b>23 April 2026:</b> Talk at <a href="https://ptml.sjmc.wisc.edu">Public Tech Media Lab</a>, University of Wisconsin-Madison: "The cultural ecology of social media". <a href="https://ptml.sjmc.wisc.edu/event/wg-critical-platform-studies-alberto-acerbi/">Zoom link</a>.</p>
-    
-        <p style="font-size:17px"><b>9 April 2026:</b> Talk at the <a href="https://www.model-transfer.uni-hannover.de/en/news-and-events/events/workshop-scientific-progress-via-model-transfer">Scientific Progress via Model Transfer? The Case of Cultural Evolution</a> workshop in Hannover: "The cultural ecology of social media". Slides <a href="https://osf.io/e8f3k/files/nhs7g">here</a>.</p>
 
     design:
       columns: '1'
