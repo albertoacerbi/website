@@ -187,7 +187,7 @@ profiles:
 
 I am a researcher in the field of cultural evolution. My work is at the interface of psychology, anthropology, and sociology. I am interested in particular to contemporary cultural phenomena, and I use a naturalistic, quantitative, and evolutionary approach with different methodologies, especially individual-based models and quantitative analysis of large-scale cultural data. I am an Associate Professor in the [Department of Sociology and Social Research](https://www.sociologia.unitn.it/en) at the [University of Trento](https://www.unitn.it/en), and member of the [C2S2 - Centre for Computational Social Science and Human Dynamics](https://c2s2.unitn.it).
 
-My last book (published in March 2025) is [Tecnopanico](https://www.mulino.it/isbn/9788815391476) (il Mulino, in Italian).  
+My last book (published in May 2026) is [Technopanic][mybook.to/technopanic], the English translation of [Tecnopanico](https://www.mulino.it/isbn/9788815391476) (il Mulino, 2025) 
 
 Earlier, I wrote a book for Oxford University Press: [Cultural evolution in the digital age](https://global.oup.com/academic/product/cultural-evolution-in-the-digital-age-9780198835943?cc=gb&lang=en&), and an open access manual: [Individual-based models of cultural evolution. A step-by-step guide using R](https://albertoacerbi.github.io/IBM-cultevo/) (a physical version is available with [Routeldge](https://www.routledge.com/Individual-Based-Models-of-Cultural-Evolution-A-Step-by-Step-Guide-Using/Acerbi-Mesoudi-Smolla/p/book/9781032252063)). I also curate a free substack newsletter (in Italian), with links to material about cultural evolution and digital technologies: [Cinque link a settimana](https://albertoacerbi.substack.com).
 
