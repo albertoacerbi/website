@@ -37,15 +37,15 @@ sections:
       subtitle: ''
       text: |-
 
-        <p style="font-size:17px"><b>16 June 2026:</b> IAST (Institute for Advanced Study in Toulouse) <a href="https://www.iast.fr/seminars/2026-cultural-ecology-social-media">General seminar</a>: "The cultural ecology of social media".
+        <p style="font-size:17px"><b>23 June 2026:</b> Keynote at "Navigating Disinformation In The Age Of AI", Trento: <a href=https://hybridsproject.eu/events/navigating-disinformation/">Social influence and misinformation online</a></p>
     
-        <p style="font-size:17px"><b>4 June 2026:</b> Talk at the seminar series <a href="https://www.cnr.it/it/eventi/allegato/14772">Pensare nell'era del dato</a> at the Istituto per la Storia del Pensiero Filosofico e Scientifico Moderno, Napoli: "Disinformazione ed influenza sociale online".
+        <p style="font-size:17px"><b>16 June 2026:</b> IAST (Institute for Advanced Study in Toulouse) <a href="https://www.iast.fr/seminars/2026-cultural-ecology-social-media">General seminar</a>: "The cultural ecology of social media".</p>
+    
+        <p style="font-size:17px"><b>4 June 2026:</b> Talk at the seminar series <a href="https://www.cnr.it/it/eventi/allegato/14772">Pensare nell'era del dato</a> at the Istituto per la Storia del Pensiero Filosofico e Scientifico Moderno, Napoli: "Disinformazione ed influenza sociale online".</p>
 
         <p style="font-size:17px"><b>29 May 2026:</b> New paper out: <a href="https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/cultural-ecology-of-social-media/78DEBBF3C9D5D0E181820B05CC7022A9">The Cultural Ecology of Social Media</a>.</p>
 
         <p style="font-size:17px"><b>25 May 2026:</b> <a href="https://mybook.to/technopanic">Technopanic</a> release day!</p>
-
-        <p style="font-size:17px"><b>23 April 2026:</b> Talk at <a href="https://ptml.sjmc.wisc.edu">Public Tech Media Lab</a>, University of Wisconsin-Madison: "The cultural ecology of social media". <a href="https://ptml.sjmc.wisc.edu/event/wg-critical-platform-studies-alberto-acerbi/">Zoom link</a>.</p>
 
     design:
       columns: '1'
