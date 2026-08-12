@@ -30,8 +30,8 @@ tags:
 - cultural evolution and cultural attraction
 
 title: "Social learning rules and the effectiveness of behavioural policy: an agent-based model"
-url_code: ""
-url_dataset: "https://doi.org/10.17605/OSF.IO/BPD87"
+url_code: "https://doi.org/10.17605/OSF.IO/BPD87"
+url_dataset: ""
 url_pdf: files/2026_BPP.pdf
 url_poster: ""
 url_project: ""
