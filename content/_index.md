@@ -37,7 +37,7 @@ sections:
       subtitle: ''
       text: |-
 
-                <p style="font-size:17px"><b>25 July 2026:</b> New paper out with Giuseppe Alessandro Veltri: <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/social-learning-rules-and-the-effectiveness-of-behavioural-policy-an-agentbased-model/8C21B0694BA363AFCA5E32AF7F2ADE85">Social learning rules and the effectiveness of behavioural policy: an agent-based model</a>.</p>
+        <p style="font-size:17px"><b>25 July 2026:</b> New paper out with Giuseppe Alessandro Veltri: <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/social-learning-rules-and-the-effectiveness-of-behavioural-policy-an-agentbased-model/8C21B0694BA363AFCA5E32AF7F2ADE85">Social learning rules and the effectiveness of behavioural policy: an agent-based model</a>.</p>
 
         <p style="font-size:17px"><b>23 June 2026:</b> Keynote at "Navigating Disinformation In The Age Of AI", Trento: <a href=https://hybridsproject.eu/events/navigating-disinformation/">Social influence and misinformation online</a></p>
     
