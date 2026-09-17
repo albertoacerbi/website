@@ -38,14 +38,8 @@ sections:
       text: |-
 
         <p style="font-size:17px"><b>2 October 2026:</b> Talk at the Premio Moebius in Lugano (Switzerland) on <a href="https://www.moebiuslugano.ch/Tecnopanico-Media-Digitali-tra-ragionevoli-cautele-e-paure-ingiustificate-4ce60100">Tecnopanico. Media Digitali, tra ragionevoli cautele e paure ingiustificate - Credulità, sfiducia e allarmismo alla prova dei dati</a></p>
-    
-        <p style="font-size:17px"><b>25 July 2026:</b> New paper out with Giuseppe Alessandro Veltri: <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/social-learning-rules-and-the-effectiveness-of-behavioural-policy-an-agentbased-model/8C21B0694BA363AFCA5E32AF7F2ADE85">Social learning rules and the effectiveness of behavioural policy: an agent-based model</a>.</p>
 
-        <p style="font-size:17px"><b>23 June 2026:</b> Keynote at "Navigating Disinformation In The Age Of AI", Trento: <a href=https://hybridsproject.eu/events/navigating-disinformation/">Social influence and misinformation online</a></p>
-    
-        <p style="font-size:17px"><b>16 June 2026:</b> IAST (Institute for Advanced Study in Toulouse) <a href="https://www.iast.fr/seminars/2026-cultural-ecology-social-media">General seminar</a>: "The cultural ecology of social media".</p>
-    
-        <p style="font-size:17px"><b>4 June 2026:</b> Talk at the seminar series <a href="https://www.cnr.it/it/eventi/allegato/14772">Pensare nell'era del dato</a> at the Istituto per la Storia del Pensiero Filosofico e Scientifico Moderno, Napoli: "Disinformazione ed influenza sociale online".</p>
+        <p style="font-size:17px"><b>17 September 2026:</b> New paper out with Eliana Fattorini, Massimiano Bucchi, and Enzo Loner: <a href="https://www.tandfonline.com/eprint/HF5RTVQAMZR5C2GFSNU7/full?target=10.1080/1369118X.2026.2733507">Weapon and poison? Framing disinformation in European Commission Speeches, 2016–2024</a>.</p>
 
     design:
       columns: '1'
