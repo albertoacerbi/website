@@ -39,6 +39,8 @@ sections:
 
         <p style="font-size:17px"><b>2 October 2026:</b> Talk at the Premio Moebius in Lugano (Switzerland) on <a href="https://www.moebiuslugano.ch/Tecnopanico-Media-Digitali-tra-ragionevoli-cautele-e-paure-ingiustificate-4ce60100">Tecnopanico. Media Digitali, tra ragionevoli cautele e paure ingiustificate - Credulità, sfiducia e allarmismo alla prova dei dati</a></p>
 
+      <p style="font-size:17px"><b>26 September 2026:</b> Round Table at the <a href="https://www.filosofiadellinguaggio.it/evento/torino-24-26-settembre-2026-allucinazioni-percezione-cognizione-e-intelligenza-artificiale/">XXXI Convegno della Società di Filosofia del Linguaggio</a></p> in Torino (Italy).
+
         <p style="font-size:17px"><b>17 September 2026:</b> New paper out with Eliana Fattorini, Massimiano Bucchi, and Enzo Loner: <a href="https://www.tandfonline.com/eprint/HF5RTVQAMZR5C2GFSNU7/full?target=10.1080/1369118X.2026.2733507">Weapon and poison? Framing disinformation in European Commission Speeches, 2016–2024</a>.</p>
 
     design:
