@@ -37,6 +37,8 @@ sections:
       subtitle: ''
       text: |-
 
+        <p style="font-size:17px"><b>14 October 2026:</b> Talk at <a href="https://www.ufficiostampa.provincia.tn.it/Comunicati/Nella-Biblioteca-della-Provincia-un-ciclo-di-incontri-su-come-cambia-il-sapere-nell-era-di-algoritmi-e-AI">Futuro : conoscenza. Il sapere nell'era degli algoritmi</a> at the Biblioteca della Provincia di Trento (Italy).</p>
+    
         <p style="font-size:17px"><b>2 October 2026:</b> Talk at the Premio Moebius in Lugano (Switzerland) on <a href="https://www.moebiuslugano.ch/Tecnopanico-Media-Digitali-tra-ragionevoli-cautele-e-paure-ingiustificate-4ce60100">Tecnopanico. Media Digitali, tra ragionevoli cautele e paure ingiustificate - Credulità, sfiducia e allarmismo alla prova dei dati</a></p>
 
         <p style="font-size:17px"><b>26 September 2026:</b> Round Table at the <a href="https://www.filosofiadellinguaggio.it/evento/torino-24-26-settembre-2026-allucinazioni-percezione-cognizione-e-intelligenza-artificiale/">XXXI Convegno della Società di Filosofia del Linguaggio</a> in Torino (Italy).</p>
