@@ -45,6 +45,10 @@ src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <p style="font-size:17px">A <a href="https://www.rainews.it/tgr/trento/video/2025/04/tecnopanico-acerbi-smartphone-fake-news-media-social-2bec8e78-ce9a-4ad8-8038-24814688a66d.html">report</a> from RAI Trentino.</p>
 
+<p style="font-size:17px">Book Presentation at Premio Moebius, Lugano.</p>
+
+{{< Youtube 1UW3ZRAsAIM >}} 
+
 <p style="font-size:17px"><a href="http://www.rai.tv/dl/RaiTV/programmi/media/ContentItem-61628d64-0e47-47be-ae09-13e373e6626e.html">Il cantiere delle idee</a>, a RAI production.</p>
 
 <p style="font-size:17px">Book presentation at <em>Acta Diurna</em>:</p>
