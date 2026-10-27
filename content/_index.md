@@ -105,11 +105,11 @@ sections:
       title: 'Teaching'
       subtitle: ''
       text: |-
-        <p style="font-size:17px"><a href="https://didatticaonline.unitn.it/dol/course/view.php?id=44871">Current issues in digital media and politics</a>: MSc (laurea magistrale Data Science) module, first term (co-taught with Prof. Elena Pavan).</p>
+        <p style="font-size:17px"><a href="https://unitn.coursecatalogue.cineca.it/corsi/2026/10760/insegnamenti/2026/51205_656726_96405/2026/51207?annoOrdinamento=2026">Current issues in digital media and politics</a>: MSc (laurea magistrale Data Science) module, first term (co-taught with Prof. Elena Pavan).</p>
 
-        <p style="font-size:17px"><a href="https://unitn.coursecatalogue.cineca.it/insegnamenti/2025/50767_650246_95906/2025/50767/10848?annoOrdinamento=2025">Cultural analytics</a>: MSc (laurea magistrale Sociology and Social Research) module, second term.</p>
+        <p style="font-size:17px"><a href="https://unitn.coursecatalogue.cineca.it/corsi/2026/10848/insegnamenti/2026/51191_656637_95906/2026/51191?annoOrdinamento=2026">Cultural analytics</a>: MSc (laurea magistrale Sociology and Social Research) module, second term.</p>
 
-        <p style="font-size:17px"><a href="https://unitn.coursecatalogue.cineca.it/insegnamenti/2025/50757_649629_96116/2025/50758/10844?annoOrdinamento=2025">Costruire un disegno di analisi dei fenomeni sociali</a>: BSc (laurea triennale Sociologia) module, second term.</p>
+        <p style="font-size:17px"><a href="https://unitn.coursecatalogue.cineca.it/corsi/2026/10844/insegnamenti/2026/51185_655642_96116/2026/51189?annoOrdinamento=2026">Costruire un disegno di analisi dei fenomeni sociali</a>: BSc (laurea triennale Sociologia) module, second term.</p>
 
     design:
       columns: '1'
