@@ -35,6 +35,8 @@ url_source: ""
 url_video: ""
 ---
 
+<p style="font-size:17px">Also available in English as <a href="{{< ref "publication/2026_technopanic" >}}"><em>Technopanic</em></a> (Éditions Croulebarbe, 2026).</p>
+
 <script id="altmetric-embed-js" type="text/javascript"
 src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
