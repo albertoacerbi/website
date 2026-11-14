@@ -37,6 +37,10 @@ url_video: ""
 
 <p style="font-size:17px">English translation of <a href="{{< ref "publication/2025_tecnopanico" >}}"><em>Tecnopanico</em></a> (Il Mulino, 2025).</p>
 
+<p style="font-size:17px"><em>Digital media have sent many into panic, blaming them for just about any negative development. In this refreshing book, Alberto Acerbi takes a hard look at whether such ‘technopanics’ are warranted, and concludes that they are not. This isn’t blind techno-optimism, but a nuanced and historically informed perspective.</em></p>
+
+<p style="font-size:17px">Hugo Mercier, author of <em>Not Born Yesterday</em> and <em>The Enigma of Reason</em></p>
+
 <script id="altmetric-embed-js" type="text/javascript"
 src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
