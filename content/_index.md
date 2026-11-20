@@ -37,7 +37,7 @@ sections:
       subtitle: ''
       text: |-
 
-        <p style="font-size:17px"><b>20 November 2026:</b> Interview on <a href="https://www.radio24.ilsole24ore.com/programmi/24mattino-le-interviste/puntata/trasmissione-20-novembre-2026-081000-2312972124550522">Radio 23</a> on the release of GTA VI.</p>
+        <p style="font-size:17px"><b>20 November 2026:</b> Interview on <a href="https://www.radio24.ilsole24ore.com/programmi/24mattino-le-interviste/puntata/trasmissione-20-novembre-2026-081000-2312972124550522">Radio 24</a> on the release of GTA VI.</p>
 
         <p style="font-size:17px"><b>18 November 2026:</b> Talk at the Evolution and Social Cognition lab (Paris) meeting: <a href="https://zenodo.org/records/24366307">The cultural ecology of social media: empirical explorations</a>.</p>
 
