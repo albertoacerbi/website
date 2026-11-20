@@ -37,15 +37,15 @@ sections:
       subtitle: ''
       text: |-
 
+        <p style="font-size:17px"><b>20 November 2026:</b> Interview on <a href="https://www.radio24.ilsole24ore.com/programmi/24mattino-le-interviste/puntata/trasmissione-20-novembre-2026-081000-2312972124550522">Radio 23</a> on the release of GTA VI.</p>
+
+        <p style="font-size:17px"><b>18 November 2026:</b> Talk at the Evolution and Social Cognition lab (Paris) meeting: <a href="https://zenodo.org/records/24366307">The cultural ecology of social media: empirical explorations</a>.</p>
+
         <p style="font-size:17px"><b>17 November 2026:</b> I've been <a href="https://www.ildolomiti.it/societa/2026/gta-vi-uscita-ferie-italia-videogioco">interviewed</a> by Il Dolomiti on video-games, in occasion of the release of GTA VI.</p>
 
         <p style="font-size:17px"><b>14 October 2026:</b> Talk at <a href="https://www.ufficiostampa.provincia.tn.it/Comunicati/Nella-Biblioteca-della-Provincia-un-ciclo-di-incontri-su-come-cambia-il-sapere-nell-era-di-algoritmi-e-AI">Futuro : conoscenza. Il sapere nell'era degli algoritmi</a> at the Biblioteca della Provincia di Trento (Italy).</p>
     
         <p style="font-size:17px"><b>2 October 2026:</b> Talk at the Premio Moebius in Lugano (Switzerland) on <a href="https://www.moebiuslugano.ch/Tecnopanico-Media-Digitali-tra-ragionevoli-cautele-e-paure-ingiustificate-4ce60100">Tecnopanico. Media Digitali, tra ragionevoli cautele e paure ingiustificate - Credulità, sfiducia e allarmismo alla prova dei dati</a></p>
-
-        <p style="font-size:17px"><b>26 September 2026:</b> Round Table at the <a href="https://www.filosofiadellinguaggio.it/evento/torino-24-26-settembre-2026-allucinazioni-percezione-cognizione-e-intelligenza-artificiale/">XXXI Convegno della Società di Filosofia del Linguaggio</a> in Torino (Italy).</p>
-
-        <p style="font-size:17px"><b>17 September 2026:</b> New paper out with Eliana Fattorini, Massimiano Bucchi, and Enzo Loner: <a href="https://www.tandfonline.com/eprint/HF5RTVQAMZR5C2GFSNU7/full?target=10.1080/1369118X.2026.2733507">Weapon and poison? Framing disinformation in European Commission Speeches, 2016–2024</a>.</p>
 
     design:
       columns: '1'
